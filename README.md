@@ -31,6 +31,7 @@ The datasets included in this repository were anonymised, partially reconstructe
 
 # Repository Structure
 
+```
 spare-parts-warehouse-automation-analysis/
 │
 ├── data/
@@ -59,7 +60,7 @@ spare-parts-warehouse-automation-analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 
 # Technologies Used
 
