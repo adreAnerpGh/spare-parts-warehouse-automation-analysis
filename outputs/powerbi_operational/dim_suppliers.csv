@@ -1,0 +1,21 @@
+Supplier_ID,Supplier_Name,Supplier_Region,Avg_Lead_Time_Days,Lead_Time_SD_Days,Reliability_Score,Default_Incoterm
+SUP-001,Italy Industrial Components 01,Italy,4,1,0.86,DAP
+SUP-002,Italy Industrial Components 02,Italy,4,1,0.89,EXW
+SUP-003,EU Industrial Components 03,EU,6,1,0.85,DAP
+SUP-004,EU Industrial Components 04,EU,7,3,0.95,EXW
+SUP-005,Eastern Europe Industrial Components 05,Eastern Europe,10,1,0.75,DDP
+SUP-006,EU Industrial Components 06,EU,7,2,0.96,DAP
+SUP-007,Eastern Europe Industrial Components 07,Eastern Europe,10,1,0.91,FCA
+SUP-008,EU Industrial Components 08,EU,8,1,0.96,DAP
+SUP-009,Italy Industrial Components 09,Italy,4,1,0.87,EXW
+SUP-010,EU Industrial Components 10,EU,8,2,0.92,FCA
+SUP-011,EU Industrial Components 11,EU,7,2,0.97,DAP
+SUP-012,Italy Industrial Components 12,Italy,4,2,0.85,FCA
+SUP-013,North America Industrial Components 13,North America,19,3,0.86,DAP
+SUP-014,Eastern Europe Industrial Components 14,Eastern Europe,11,3,0.78,FCA
+SUP-015,EU Industrial Components 15,EU,10,1,0.87,DAP
+SUP-016,EU Industrial Components 16,EU,8,1,0.86,FCA
+SUP-017,EU Industrial Components 17,EU,6,3,0.96,FCA
+SUP-018,EU Industrial Components 18,EU,9,1,0.83,EXW
+SUP-019,EU Industrial Components 19,EU,4,1,0.89,EXW
+SUP-020,EU Industrial Components 20,EU,9,1,0.98,DDP

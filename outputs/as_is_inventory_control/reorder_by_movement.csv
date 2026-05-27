@@ -1,0 +1,7 @@
+Movement_Class,Parts,Parts_Below_Reorder,Avg_Available_Qty,Avg_Reorder_Point,Below_Reorder_%
+A,9,0,14.56,11.78,0.0
+A+,8,4,23.88,22.12,50.0
+B,59,13,14.86,12.51,22.03
+C,167,8,10.75,7.72,4.79
+D,338,11,5.15,3.53,3.25
+NC,419,11,3.1,2.13,2.63

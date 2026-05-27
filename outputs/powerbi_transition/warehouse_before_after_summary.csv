@@ -1,0 +1,5 @@
+Metric,Original_Warehouse,Automated_Warehouse,Residual_Manual_Warehouse
+SKU count,1000.0,377.0,623.0
+Movement lines 36M,6328.0,5341.0,987.0
+Occupied volume cm3,141087091.0,8224903.0,132862188.0
+Inventory value EUR,787264.15,203613.46,583650.69

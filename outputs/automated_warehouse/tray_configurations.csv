@@ -1,0 +1,8 @@
+Tray_Type,Compartments_Per_Tray,Compartment_Width_mm,Compartment_Depth_mm,Compartment_Height_mm,Compartment_Volume_cm3,Tray_Theoretical_Volume_cm3
+B,50,160,160,175,4480.0,224000.0
+D,16,400,200,175,14000.0,224000.0
+E,8,400,400,175,28000.0,224000.0
+H,8,800,200,175,28000.0,224000.0
+G,4,800,400,175,56000.0,224000.0
+F,2,800,800,175,112000.0,224000.0
+Ver,1,1600,800,175,224000.0,224000.0

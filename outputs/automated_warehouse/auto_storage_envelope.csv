@@ -1,0 +1,8 @@
+Parameter,Value
+System,UR 10 vertical tray warehouse
+Tray_Useful_Width_mm,1611
+Tray_Useful_Depth_mm,807
+Tray_Useful_Area_m2,1.3
+Max_Tray_Load_kg,500
+Tray_Pitch_mm,200
+Recommended_Max_Item_Height_mm,175

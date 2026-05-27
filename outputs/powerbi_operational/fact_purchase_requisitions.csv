@@ -1,0 +1,48 @@
+Purchase_Requisition_ID,Part_ID,Supplier_ID,Requested_Qty,Estimated_Value_EUR,Priority,Reason_Code,Status,Part_Name,Part_Category,ABC_Class,Movement_Class,Criticality,Unit_Cost_EUR,Supplier_Region
+PR000001,VL-CON-0336,SUP-004,22,641.52,High,Below_Reorder_Point,Planner Review,Scissor Lift Air Filter,Consumables & service kits,A,A+,Medium,29.16,EU
+PR000002,TC-CON-0329,SUP-018,21,914.34,High,Below_Reorder_Point,Planner Review,A2024 LL Air Filter,Consumables & service kits,A,A+,Medium,43.54,EU
+PR000003,WA-CON-0631,SUP-020,13,350.48,High,Below_Reorder_Point,Planner Review,Exact Precision Lubrication Kit,Consumables & service kits,A,A+,Medium,26.96,EU
+PR000004,VL-CON-0419,SUP-020,8,160.0,High,Below_Reorder_Point,Planner Review,ERCO Lift O-Ring Kit,Consumables & service kits,A,A+,High,20.0,EU
+PR000005,AD-CON-0459,SUP-019,7,24.64,Medium,Below_Reorder_Point,Planner Review,Diagnostic Console Protective Cover,Consumables & service kits,C,B,Medium,3.52,EU
+PR000006,WA-CON-0241,SUP-001,7,32.9,Medium,Below_Reorder_Point,Planner Review,Exact Precision Filter Kit,Consumables & service kits,C,B,Medium,4.7,Italy
+PR000007,AD-CON-0798,SUP-005,13,394.81,Medium,Below_Reorder_Point,Planner Review,Radar Calibration Lubrication Kit,Consumables & service kits,A,B,High,30.37,Eastern Europe
+PR000008,TE-CON-0893,SUP-005,13,68.25,Medium,Below_Reorder_Point,Planner Review,Suspension Tester Grease Cartridge,Consumables & service kits,C,B,High,5.25,Eastern Europe
+PR000009,AD-CON-0483,SUP-016,8,42.72,Medium,Below_Reorder_Point,Planner Review,SCE Calibration Protective Cover,Consumables & service kits,C,B,Low,5.34,EU
+PR000010,TC-CON-0491,SUP-016,8,21.6,Medium,Below_Reorder_Point,Planner Review,HD1200 Truck Protective Cover,Consumables & service kits,C,B,Medium,2.7,EU
+PR000011,VL-CON-0898,SUP-008,10,32.7,Medium,Below_Reorder_Point,Planner Review,ERCO Lift Protective Cover,Consumables & service kits,C,B,High,3.27,EU
+PR000012,VL-CON-0279,SUP-018,9,20.52,Medium,Below_Reorder_Point,Planner Review,Two-Post Lift Rubber Pad,Consumables & service kits,C,B,Medium,2.28,EU
+PR000013,WB-CON-0813,SUP-019,8,259.04,Medium,Below_Reorder_Point,Planner Review,Eyelight Rubber Pad,Consumables & service kits,A,B,Medium,32.38,EU
+PR000014,TC-CON-0347,SUP-014,11,208.34,Medium,Below_Reorder_Point,Planner Review,A2024 LL Protective Cover,Consumables & service kits,A,B,Medium,18.94,Eastern Europe
+PR000015,WA-CON-0260,SUP-018,10,192.5,Medium,Below_Reorder_Point,Planner Review,REMO Rubber Pad,Consumables & service kits,A,B,Low,19.25,EU
+PR000016,VL-CON-0387,SUP-013,19,84.36,Medium,Below_Reorder_Point,Planner Review,ERCO Lift Filter Kit,Consumables & service kits,C,B,High,4.44,North America
+PR000017,WB-CON-0591,SUP-007,12,108.12,Medium,Below_Reorder_Point,Planner Review,Eyelight Protective Cover,Consumables & service kits,B,B,Low,9.01,Eastern Europe
+PR000018,WB-CON-0696,SUP-012,4,18.68,Low,Below_Reorder_Point,Planner Review,Eyelight Air Filter,Consumables & service kits,C,C,Low,4.67,Italy
+PR000019,WB-CON-0341,SUP-003,5,213.0,Low,Below_Reorder_Point,Planner Review,ET Series Lubrication Kit,Consumables & service kits,A,C,Low,42.6,EU
+PR000020,WB-CON-0118,SUP-005,7,86.94,Low,Below_Reorder_Point,Planner Review,ET Series Air Filter,Consumables & service kits,B,C,Medium,12.42,Eastern Europe
+PR000021,WB-CON-0677,SUP-016,6,47.82,Low,Below_Reorder_Point,Planner Review,Eyelight Protective Cover,Consumables & service kits,B,C,Low,7.97,EU
+PR000022,TE-BRG-0020,SUP-018,4,420.0,Low,Below_Reorder_Point,Planner Review,Brake Tester Spindle Bearing,Bearings & shafts,A,C,Medium,105.0,EU
+PR000023,TC-CON-0937,SUP-004,3,17.4,Low,Below_Reorder_Point,Planner Review,Basic Line TC Grease Cartridge,Consumables & service kits,C,C,Low,5.8,EU
+PR000024,WB-CON-0955,SUP-009,5,90.25,High,Below_Reorder_Point,Planner Review,EM 9000 Rubber Pad,Consumables & service kits,B,C,Critical,18.05,Italy
+PR000025,WA-CON-0637,SUP-015,7,65.94,Low,Below_Reorder_Point,Planner Review,3D Aligner Filter Kit,Consumables & service kits,B,C,Low,9.42,EU
+PR000026,AD-PNE-0068,SUP-010,3,121.95,Low,Below_Reorder_Point,Planner Review,Camera Calibration Pneumatic Cylinder,Pneumatic valves & cylinders,B,D,High,40.65,EU
+PR000027,WB-SNS-0434,SUP-013,3,420.0,Low,Below_Reorder_Point,Planner Review,EM 9000 Speed Sensor,"Sensors, encoders & switches",A,D,High,140.0,North America
+PR000028,VL-BRG-0993,SUP-012,4,220.0,Low,Below_Reorder_Point,Planner Review,Alignment Lift Hub Shaft,Bearings & shafts,B,D,Low,55.0,Italy
+PR000029,WA-CAB-0778,SUP-010,3,31.41,Low,Below_Reorder_Point,Planner Review,Exact Precision Sensor Harness,"Cables, connectors & harnesses",C,D,Medium,10.47,EU
+PR000030,WB-SNS-0967,SUP-004,3,735.0,Low,Below_Reorder_Point,Planner Review,Eyelight Speed Sensor,"Sensors, encoders & switches",A,D,Medium,245.0,EU
+PR000031,TC-PNE-0448,SUP-005,4,500.0,Low,Below_Reorder_Point,Planner Review,HD1200 Truck Air Hose Set,Pneumatic valves & cylinders,A,NC,Medium,125.0,Eastern Europe
+PR000032,TC-BLT-0127,SUP-010,4,49.0,Low,Below_Reorder_Point,Planner Review,HD1200 Truck Timing Belt,Belts & pulleys,C,D,Medium,12.25,EU
+PR000033,WA-PNE-0447,SUP-018,2,650.0,Low,Below_Reorder_Point,Planner Review,Exact Precision Manifold Valve,Pneumatic valves & cylinders,A,D,Medium,325.0,EU
+PR000034,VL-CAB-0959,SUP-004,3,315.0,Low,Below_Reorder_Point,Planner Review,Alignment Lift Terminal Block,"Cables, connectors & harnesses",A,D,Low,105.0,EU
+PR000035,VL-CON-0284,SUP-002,5,148.75,High,Below_Reorder_Point,Planner Review,Alignment Lift Service Seal Pack,Consumables & service kits,B,D,Critical,29.75,Italy
+PR000036,TC-CAB-0676,SUP-004,2,86.54,Low,Below_Reorder_Point,Planner Review,HD1200 Truck Usb Interface Cable,"Cables, connectors & harnesses",B,D,High,43.27,EU
+PR000037,TC-SNS-0868,SUP-007,2,940.0,Low,Below_Reorder_Point,Planner Review,Basic Line TC Position Sensor,"Sensors, encoders & switches",A,NC,High,470.0,Eastern Europe
+PR000038,WB-PNE-0611,SUP-006,2,110.0,Low,Below_Reorder_Point,Planner Review,Eyelight Air Regulator,Pneumatic valves & cylinders,B,NC,Medium,55.0,EU
+PR000039,VL-CAB-0734,SUP-017,2,77.14,Low,Below_Reorder_Point,Planner Review,ERCO Lift Ribbon Cable,"Cables, connectors & harnesses",C,NC,Medium,38.57,EU
+PR000040,TE-PNE-0984,SUP-010,2,86.88,Low,Below_Reorder_Point,Planner Review,Suspension Tester Foot Pedal Valve,Pneumatic valves & cylinders,C,NC,High,43.44,EU
+PR000041,WB-HYD-0461,SUP-020,2,200.0,Low,Below_Reorder_Point,Planner Review,Eyelight Hydraulic Seal Kit,"Hydraulic pumps, hoses & seals",B,NC,Medium,100.0,EU
+PR000042,AD-SNS-0130,SUP-003,3,105.36,Low,Below_Reorder_Point,Planner Review,Radar Calibration Load Cell,"Sensors, encoders & switches",C,NC,High,35.12,EU
+PR000043,WA-HYD-0077,SUP-018,3,64.2,Low,Below_Reorder_Point,Planner Review,Camera Aligner Hydraulic Seal Kit,"Hydraulic pumps, hoses & seals",C,NC,Low,21.4,EU
+PR000044,TC-PCB-0524,SUP-016,3,3690.0,High,Below_Reorder_Point,Planner Review,A2024 LL I/O Board,Control boards & displays,A,NC,Critical,1230.0,EU
+PR000045,TC-PCB-0755,SUP-020,2,600.0,Low,Below_Reorder_Point,Planner Review,Basic Line TC Keypad Board,Control boards & displays,B,NC,High,300.0,EU
+PR000046,WA-PCB-0145,SUP-020,3,1200.0,Low,Below_Reorder_Point,Planner Review,3D Aligner Processor Module,Control boards & displays,A,NC,Medium,400.0,EU
+PR000047,TE-BLT-0334,SUP-018,3,135.87,Low,Below_Reorder_Point,Planner Review,Inspection Line Timing Belt,Belts & pulleys,B,D,Medium,45.29,EU

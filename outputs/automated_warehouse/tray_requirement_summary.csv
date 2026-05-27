@@ -1,0 +1,7 @@
+Proposed_Tray_Type,Parts,Compartments_Per_Tray,Estimated_Compartments_Required,Total_Required_Volume_cm3,Total_Movement_Lines,Compartment_Volume_cm3,Estimated_Trays_Required,Estimated_Available_Tray_Volume_cm3,Estimated_Compartment_Utilisation_%
+D,117,16,117,2123719,2301,14000.0,8.0,1792000.0,118.51
+B,227,50,227,773063,1989,4480.0,5.0,1120000.0,69.02
+E,25,8,25,878275,274,28000.0,4.0,896000.0,98.02
+G,5,4,5,659194,221,56000.0,2.0,448000.0,147.14
+Ver,2,1,2,3543485,528,224000.0,2.0,448000.0,790.96
+F,1,2,1,247167,28,112000.0,1.0,224000.0,110.34

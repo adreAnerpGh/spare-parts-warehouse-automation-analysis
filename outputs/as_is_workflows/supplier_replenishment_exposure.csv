@@ -1,0 +1,20 @@
+Supplier_ID,Supplier_Name,Supplier_Region,Parts_To_Replenish,Suggested_Replenishment_Qty,Suggested_Replenishment_Value_EUR,Avg_Lead_Time_Days,Avg_Reliability_Score,Planner_Exceptions,Avg_Priority_Score
+SUP-016,EU Industrial Components 16,EU,4,25,3802.14,8.0,0.86,4,11.64
+SUP-020,EU Industrial Components 20,EU,5,28,2510.48,9.0,0.9800000000000001,5,13.219999999999999
+SUP-018,EU Industrial Components 18,EU,7,52,2397.43,9.0,0.83,7,13.17
+SUP-004,EU Industrial Components 04,EU,5,33,1795.46,7.0,0.95,5,13.85
+SUP-005,Eastern Europe Industrial Components 05,Eastern Europe,4,37,1050.0,10.0,0.75,4,13.25
+SUP-007,Eastern Europe Industrial Components 07,Eastern Europe,2,14,1048.12,10.0,0.91,2,12.09
+SUP-013,North America Industrial Components 13,North America,2,22,504.36,19.0,0.86,2,15.14
+SUP-003,EU Industrial Components 03,EU,2,8,318.36,6.0,0.85,2,13.15
+SUP-010,EU Industrial Components 10,EU,4,12,289.24,8.0,0.92,4,12.58
+SUP-019,EU Industrial Components 19,EU,2,15,283.68,4.0,0.89,2,13.61
+SUP-012,Italy Industrial Components 12,Italy,2,8,238.68,4.0,0.85,2,11.15
+SUP-014,Eastern Europe Industrial Components 14,Eastern Europe,1,11,208.34,11.0,0.78,1,15.22
+SUP-002,Italy Industrial Components 02,Italy,1,5,148.75,4.0,0.89,1,8.11
+SUP-006,EU Industrial Components 06,EU,1,2,110.0,7.0,0.96,1,12.04
+SUP-009,Italy Industrial Components 09,Italy,1,5,90.25,4.0,0.87,1,9.13
+SUP-017,EU Industrial Components 17,EU,1,2,77.14,6.0,0.96,1,12.04
+SUP-015,EU Industrial Components 15,EU,1,7,65.94,10.0,0.87,1,10.13
+SUP-001,Italy Industrial Components 01,Italy,1,7,32.9,4.0,0.86,1,15.14
+SUP-008,EU Industrial Components 08,EU,1,10,32.7,8.0,0.96,1,13.04

@@ -1,0 +1,11 @@
+Metric,Value
+Total parts,1000.0
+Stock-managed parts,647.0
+Parts below reorder point,294.0
+Parts still below reorder point after open orders,224.0
+Parts with suggested replenishment,47.0
+Planner exceptions,47.0
+Total suggested replenishment quantity,303.0
+Total suggested replenishment value EUR,15003.97
+Purchase requisitions created,47.0
+Purchase requisition value EUR,15003.970000000003

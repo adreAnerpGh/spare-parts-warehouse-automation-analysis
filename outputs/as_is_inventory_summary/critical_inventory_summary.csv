@@ -1,0 +1,11 @@
+Movement_Class,ABC_Class,XYZ_Class,Parts,Avg_Lead_Time,Avg_Inventory_Value,Avg_Weekly_Demand
+B,A,Y,1,1.4,305.46,1.08
+C,A,Z,1,1.0,331.87,0.23
+C,B,Y,2,1.05,159.95,0.55
+C,B,Z,1,1.0,123.66,0.3
+D,A,Z,8,1.11,633.75,0.09
+D,B,Z,7,1.14,388.15,0.15
+D,C,Z,5,1.48,151.1,0.16
+NC,A,Z,57,1.2,2346.58,0.0
+NC,B,Z,38,1.26,723.68,0.01
+NC,C,Z,19,1.24,221.19,0.0

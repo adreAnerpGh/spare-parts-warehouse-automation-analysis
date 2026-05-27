@@ -1,0 +1,4 @@
+Status,Priority,Reason_Code,Purchase_Requisitions,Requested_Qty,Estimated_Value_EUR,Avg_Lead_Time_Days,Avg_Supplier_Reliability
+Planner Review,Low,Below_Reorder_Point,27,91,7518.13,8.25925925925926,0.8911111111111111
+Planner Review,High,Below_Reorder_Point,7,77,5995.34,7.142857142857143,0.9085714285714285
+Planner Review,Medium,Below_Reorder_Point,13,135,1490.5,8.76923076923077,0.8484615384615384

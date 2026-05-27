@@ -1,0 +1,7 @@
+Movement_Class,Parts,Avg_Stock_Coverage_Weeks,Median_Stock_Coverage_Weeks,Parts_Below_Reorder
+A,9,6.37,6.4,0
+A+,8,7.96,6.43,4
+B,59,14.67,12.84,13
+C,167,29.84,23.74,8
+D,338,76.38,52.0,11
+NC,419,244.32,156.0,11

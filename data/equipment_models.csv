@@ -1,0 +1,25 @@
+Equipment_Family_ID,Equipment_Family,Equipment_Model_ID,Equipment_Model
+TC,Tyre Changer,TC-01,TC_Model_A
+TC,Tyre Changer,TC-02,A2024 LL
+TC,Tyre Changer,TC-03,HD1200 Truck
+TC,Tyre Changer,TC-04,Basic Line TC
+WB,Wheel Balancer,WB-01,WB_Model_B
+WB,Wheel Balancer,WB-02,Eyelight
+WB,Wheel Balancer,WB-03,ET Series
+WB,Wheel Balancer,WB-04,Mobile Balancer
+WA,Wheel Aligner,WA-01,Exact Precision
+WA,Wheel Aligner,WA-02,REMO
+WA,Wheel Aligner,WA-03,3D Aligner
+WA,Wheel Aligner,WA-04,Camera Aligner
+VL,Vehicle Lift,VL-01,Lift_Model_C
+VL,Vehicle Lift,VL-02,Scissor Lift
+VL,Vehicle Lift,VL-03,Two_Post_Lift_A
+VL,Vehicle Lift,VL-04,Alignment Lift
+AD,ADAS & Diagnosis,AD-01,SCE Calibration
+AD,ADAS & Diagnosis,AD-02,Diagnostic Console
+AD,ADAS & Diagnosis,AD-03,Radar Calibration
+AD,ADAS & Diagnosis,AD-04,Camera Calibration
+TE,Technical Control,TE-01,Brake Tester
+TE,Technical Control,TE-02,Suspension Tester
+TE,Technical Control,TE-03,Test Lane
+TE,Technical Control,TE-04,Inspection Line

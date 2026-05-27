@@ -1,0 +1,5 @@
+Supplier_Region,Parts,Parts_Below_Reorder,Planner_Exceptions,Suggested_Replenishment_Qty
+EU,604,33,33,194
+Eastern Europe,154,7,7,62
+Italy,180,5,5,25
+North America,62,2,2,22

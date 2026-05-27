@@ -1,0 +1,82 @@
+Table,Field,Description
+part_master,Part_ID,Part_ID field in the anonymised warehouse transition dataset.
+part_master,Part_Name,Part_Name field in the anonymised warehouse transition dataset.
+part_master,Equipment_Family_ID,Equipment_Family_ID field in the anonymised warehouse transition dataset.
+part_master,Equipment_Family,Equipment_Family field in the anonymised warehouse transition dataset.
+part_master,Equipment_Model,Equipment_Model field in the anonymised warehouse transition dataset.
+part_master,Part_Category_ID,Part_Category_ID field in the anonymised warehouse transition dataset.
+part_master,Part_Category,Part_Category field in the anonymised warehouse transition dataset.
+part_master,Demand_Profile,Demand_Profile field in the anonymised warehouse transition dataset.
+part_master,Criticality,Criticality field in the anonymised warehouse transition dataset.
+part_master,Supplier_ID,Supplier_ID field in the anonymised warehouse transition dataset.
+part_master,Supplier_Region,Supplier_Region field in the anonymised warehouse transition dataset.
+part_master,Unit_Cost_EUR,Unit_Cost_EUR field in the anonymised warehouse transition dataset.
+part_master,Storage_Type,Storage_Type field in the anonymised warehouse transition dataset.
+part_master,Lifecycle_Status,Lifecycle_Status field in the anonymised warehouse transition dataset.
+part_master,Target_Service_Level,Target_Service_Level field in the anonymised warehouse transition dataset.
+part_master,Avg_Weekly_Demand_Seed,Avg_Weekly_Demand_Seed field in the anonymised warehouse transition dataset.
+part_master,ABC_Class,ABC_Class field in the anonymised warehouse transition dataset.
+part_master,Source_Context,Source_Context field in the anonymised warehouse transition dataset.
+part_master,Movement_Class,"Movement class based on order-line frequency, inspired by the original A+/A/B/C/D/NC warehouse classification."
+part_master,Movement_Lines_36M,Anonymised/reconstructed order-line count across the analysis period.
+part_master,Annual_Lines,Annual_Lines field in the anonymised warehouse transition dataset.
+part_master,Avg_Monthly_Lines,Avg_Monthly_Lines field in the anonymised warehouse transition dataset.
+part_master,Cumulative_Movement_%,Cumulative share of total movement lines after sorting parts by movement intensity.
+part_master,Manual_Location,Anonymised manual warehouse location before automated warehouse allocation.
+part_master,UDC_Type,Original unit-load/container family used as a basis for tray allocation.
+part_master,Dim_X_mm,Anonymised item dimension X in millimetres.
+part_master,Dim_Y_mm,Anonymised item dimension Y in millimetres.
+part_master,Dim_Z_mm,Anonymised item dimension Z in millimetres.
+part_master,Unit_Volume_cm3,Calculated unit volume in cubic centimetres.
+part_master,Max_Dimension_mm,Max_Dimension_mm field in the anonymised warehouse transition dataset.
+part_master,Min_Dimension_mm,Min_Dimension_mm field in the anonymised warehouse transition dataset.
+part_master,Stock_Managed,Stock_Managed field in the anonymised warehouse transition dataset.
+part_master,Avg_Daily_Qty,Avg_Daily_Qty field in the anonymised warehouse transition dataset.
+part_master,Lead_Time_Weeks,Lead_Time_Weeks field in the anonymised warehouse transition dataset.
+part_master,Safety_Stock_Qty,Safety_Stock_Qty field in the anonymised warehouse transition dataset.
+part_master,Reorder_Point_Qty,Reorder_Point_Qty field in the anonymised warehouse transition dataset.
+part_master,Max_Stock_Qty,Max_Stock_Qty field in the anonymised warehouse transition dataset.
+part_master,Stock_Qty,Stock_Qty field in the anonymised warehouse transition dataset.
+part_master,Total_Qty_36M,Total_Qty_36M field in the anonymised warehouse transition dataset.
+part_master,Total_Volume_cm3,Estimated total maximum stock volume used for warehouse/tray planning.
+equipment_models,Equipment_Family_ID,Equipment_Family_ID field in the anonymised warehouse transition dataset.
+equipment_models,Equipment_Family,Equipment_Family field in the anonymised warehouse transition dataset.
+equipment_models,Equipment_Model_ID,Equipment_Model_ID field in the anonymised warehouse transition dataset.
+equipment_models,Equipment_Model,Equipment_Model field in the anonymised warehouse transition dataset.
+supplier_master,Supplier_ID,Supplier_ID field in the anonymised warehouse transition dataset.
+supplier_master,Supplier_Name,Supplier_Name field in the anonymised warehouse transition dataset.
+supplier_master,Supplier_Region,Supplier_Region field in the anonymised warehouse transition dataset.
+supplier_master,Avg_Lead_Time_Days,Avg_Lead_Time_Days field in the anonymised warehouse transition dataset.
+supplier_master,Lead_Time_SD_Days,Lead_Time_SD_Days field in the anonymised warehouse transition dataset.
+supplier_master,Reliability_Score,Reliability_Score field in the anonymised warehouse transition dataset.
+supplier_master,Default_Incoterm,Default_Incoterm field in the anonymised warehouse transition dataset.
+demand_history_weekly,Week_Start,Week_Start field in the anonymised warehouse transition dataset.
+demand_history_weekly,Part_ID,Part_ID field in the anonymised warehouse transition dataset.
+demand_history_weekly,Demand_Qty,Demand_Qty field in the anonymised warehouse transition dataset.
+demand_history_weekly,Order_Lines,Order_Lines field in the anonymised warehouse transition dataset.
+demand_history_weekly,Demand_Source,Demand_Source field in the anonymised warehouse transition dataset.
+inventory_status,Part_ID,Part_ID field in the anonymised warehouse transition dataset.
+inventory_status,On_Hand_Qty,On_Hand_Qty field in the anonymised warehouse transition dataset.
+inventory_status,On_Order_Qty,On_Order_Qty field in the anonymised warehouse transition dataset.
+inventory_status,Allocated_Qty,Allocated_Qty field in the anonymised warehouse transition dataset.
+inventory_status,Available_Qty,Available_Qty field in the anonymised warehouse transition dataset.
+inventory_status,Avg_Weekly_Demand,Avg_Weekly_Demand field in the anonymised warehouse transition dataset.
+inventory_status,Demand_SD,Demand_SD field in the anonymised warehouse transition dataset.
+inventory_status,Demand_CV,Demand_CV field in the anonymised warehouse transition dataset.
+inventory_status,Nonzero_Demand_Weeks,Nonzero_Demand_Weeks field in the anonymised warehouse transition dataset.
+inventory_status,XYZ_Class,XYZ_Class field in the anonymised warehouse transition dataset.
+inventory_status,Lead_Time_Weeks,Lead_Time_Weeks field in the anonymised warehouse transition dataset.
+inventory_status,Safety_Stock_Qty,Safety_Stock_Qty field in the anonymised warehouse transition dataset.
+inventory_status,Reorder_Point_Qty,Reorder_Point_Qty field in the anonymised warehouse transition dataset.
+inventory_status,Suggested_Replenishment_Qty,Suggested_Replenishment_Qty field in the anonymised warehouse transition dataset.
+inventory_status,Planner_Exception_Flag,Planner_Exception_Flag field in the anonymised warehouse transition dataset.
+inventory_status,Manual_Location,Anonymised manual warehouse location before automated warehouse allocation.
+inventory_status,UDC_Type,Original unit-load/container family used as a basis for tray allocation.
+purchase_requisitions,Purchase_Requisition_ID,Purchase_Requisition_ID field in the anonymised warehouse transition dataset.
+purchase_requisitions,Part_ID,Part_ID field in the anonymised warehouse transition dataset.
+purchase_requisitions,Supplier_ID,Supplier_ID field in the anonymised warehouse transition dataset.
+purchase_requisitions,Requested_Qty,Requested_Qty field in the anonymised warehouse transition dataset.
+purchase_requisitions,Estimated_Value_EUR,Estimated_Value_EUR field in the anonymised warehouse transition dataset.
+purchase_requisitions,Priority,Priority field in the anonymised warehouse transition dataset.
+purchase_requisitions,Reason_Code,Reason_Code field in the anonymised warehouse transition dataset.
+purchase_requisitions,Status,Status field in the anonymised warehouse transition dataset.

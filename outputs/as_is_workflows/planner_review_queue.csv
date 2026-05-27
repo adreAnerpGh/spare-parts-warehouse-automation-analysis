@@ -1,0 +1,48 @@
+Part_ID,Part_Name,Part_Category,Movement_Class,ABC_Class,XYZ_Class,Criticality,Supplier_ID,Supplier_Name,Available_Qty,On_Order_Qty,Reorder_Point_Qty,Suggested_Replenishment_Qty,Suggested_Replenishment_Value_EUR,Stock_Coverage_Weeks,Lead_Time_Weeks,Lead_Time_Coverage_Gap_Weeks,Planner_Exception_Flag,Replenishment_Priority_Score
+TC-CON-0329,A2024 LL Air Filter,Consumables & service kits,A+,A,X,Medium,SUP-018,EU Industrial Components 18,18,0,22,21,914.34,5.348571428571422,1.3,-4.048571428571422,True,17.17
+VL-CON-0336,Scissor Lift Air Filter,Consumables & service kits,A+,A,X,Medium,SUP-004,EU Industrial Components 04,16,0,22,22,641.52,4.153078202995011,1.0,-3.153078202995011,True,17.05
+AD-CON-0798,Radar Calibration Lubrication Kit,Consumables & service kits,B,A,Y,High,SUP-005,Eastern Europe Industrial Components 05,11,4,17,13,394.81,11.07096774193548,1.4,-9.67096774193548,True,16.25
+VL-CON-0387,ERCO Lift Filter Kit,Consumables & service kits,B,C,Y,High,SUP-013,North America Industrial Components 13,14,6,23,19,84.36000000000001,10.653658536585398,2.7,-7.953658536585398,True,16.14
+TC-CON-0347,A2024 LL Protective Cover,Consumables & service kits,B,A,Z,Medium,SUP-014,Eastern Europe Industrial Components 14,12,3,16,11,208.34,26.742857142857126,1.6,-25.142857142857125,True,15.22
+VL-CON-0279,Two-Post Lift Rubber Pad,Consumables & service kits,B,C,Y,Medium,SUP-018,EU Industrial Components 18,10,0,11,9,20.52,9.341317365269465,1.3,-8.041317365269464,True,15.17
+WA-CON-0241,Exact Precision Filter Kit,Consumables & service kits,B,C,Y,Medium,SUP-001,Italy Industrial Components 01,8,3,11,7,32.9,9.454545454545455,1.0,-8.454545454545455,True,15.14
+TC-CON-0491,HD1200 Truck Protective Cover,Consumables & service kits,B,C,Y,Medium,SUP-016,EU Industrial Components 16,6,0,10,8,21.6,5.379310344827563,1.1,-4.279310344827563,True,15.14
+AD-CON-0459,Diagnostic Console Protective Cover,Consumables & service kits,B,C,Y,Medium,SUP-019,EU Industrial Components 19,7,0,8,7,24.64,4.986301369863027,1.0,-3.9863013698630274,True,15.11
+VL-CON-0419,ERCO Lift O-Ring Kit,Consumables & service kits,A+,A,Y,High,SUP-020,EU Industrial Components 20,18,8,19,8,160.0,7.508021390374323,1.3,-6.2080213903743235,True,15.02
+WB-SNS-0434,EM 9000 Speed Sensor,"Sensors, encoders & switches",D,A,Z,High,SUP-013,North America Industrial Components 13,3,0,4,3,420.0,51.99999999999999,2.7,-49.29999999999999,True,14.14
+TC-CAB-0676,HD1200 Truck Usb Interface Cable,"Cables, connectors & harnesses",D,B,Z,High,SUP-004,EU Industrial Components 04,1,0,2,2,86.54,22.28571428571427,1.0,-21.28571428571427,True,14.05
+WA-CON-0631,Exact Precision Lubrication Kit,Consumables & service kits,A+,A,X,Medium,SUP-020,EU Industrial Components 20,19,7,21,13,350.48,5.274021352313171,1.3,-3.974021352313171,True,14.02
+TE-CON-0893,Suspension Tester Grease Cartridge,Consumables & service kits,B,C,Y,High,SUP-005,Eastern Europe Industrial Components 05,13,5,16,13,68.25,11.929411764705879,1.4,-10.529411764705879,True,13.25
+WA-PNE-0447,Exact Precision Manifold Valve,Pneumatic valves & cylinders,D,A,Z,Medium,SUP-018,EU Industrial Components 18,1,1,2,2,650.0,19.499999999999993,1.3,-18.199999999999992,True,13.17
+TE-BLT-0334,Inspection Line Timing Belt,Belts & pulleys,D,B,Z,Medium,SUP-018,EU Industrial Components 18,1,0,2,3,135.87,22.28571428571427,1.3,-20.98571428571427,True,13.17
+WB-CON-0341,ET Series Lubrication Kit,Consumables & service kits,C,A,Y,Low,SUP-003,EU Industrial Components 03,4,0,5,5,213.0,4.95238095238095,1.0,-3.95238095238095,True,13.15
+AD-SNS-0130,Radar Calibration Load Cell,"Sensors, encoders & switches",NC,C,Z,High,SUP-003,EU Industrial Components 03,1,0,2,3,105.35999999999999,,1.0,,True,13.15
+TC-SNS-0868,Basic Line TC Position Sensor,"Sensors, encoders & switches",NC,A,Z,High,SUP-007,Eastern Europe Industrial Components 07,2,1,3,2,940.0,,1.4,,True,13.09
+TE-PNE-0984,Suspension Tester Foot Pedal Valve,Pneumatic valves & cylinders,NC,C,Z,High,SUP-010,EU Industrial Components 10,1,0,2,2,86.88,,1.1,,True,13.08
+TC-BLT-0127,HD1200 Truck Timing Belt,Belts & pulleys,D,C,Z,Medium,SUP-010,EU Industrial Components 10,4,2,6,4,49.0,103.9999999999999,1.1,-102.8999999999999,True,13.08
+WA-CAB-0778,Exact Precision Sensor Harness,"Cables, connectors & harnesses",D,C,Z,Medium,SUP-010,EU Industrial Components 10,1,0,2,3,31.410000000000004,11.142857142857148,1.1,-10.042857142857148,True,13.08
+WB-SNS-0967,Eyelight Speed Sensor,"Sensors, encoders & switches",D,A,Z,Medium,SUP-004,EU Industrial Components 04,1,0,2,3,735.0,8.666666666666694,1.0,-7.6666666666666945,True,13.05
+TC-CON-0937,Basic Line TC Grease Cartridge,Consumables & service kits,C,C,Y,Low,SUP-004,EU Industrial Components 04,5,0,6,3,17.4,7.572815533980585,1.0,-6.572815533980585,True,13.05
+VL-CON-0898,ERCO Lift Protective Cover,Consumables & service kits,B,C,Y,High,SUP-008,EU Industrial Components 08,16,4,17,10,32.7,16.751677852348998,1.1,-15.651677852348998,True,13.04
+TC-PCB-0755,Basic Line TC Keypad Board,Control boards & displays,NC,B,Z,High,SUP-020,EU Industrial Components 20,1,0,2,2,600.0,39.000000000000064,1.3,-37.70000000000007,True,13.02
+TC-PNE-0448,HD1200 Truck Air Hose Set,Pneumatic valves & cylinders,NC,A,Z,Medium,SUP-005,Eastern Europe Industrial Components 05,1,1,3,4,500.0,,1.4,,True,12.25
+VL-BRG-0993,Alignment Lift Hub Shaft,Bearings & shafts,D,B,Z,Low,SUP-012,Italy Industrial Components 12,1,0,3,4,220.0,9.176470588235292,1.0,-8.176470588235292,True,12.15
+WB-CON-0813,Eyelight Rubber Pad,Consumables & service kits,B,A,Y,Medium,SUP-019,EU Industrial Components 19,13,3,14,8,259.04,11.929411764705879,1.0,-10.929411764705879,True,12.11
+VL-CAB-0959,Alignment Lift Terminal Block,"Cables, connectors & harnesses",D,A,Z,Low,SUP-004,EU Industrial Components 04,2,1,3,3,315.0,28.36363636363637,1.0,-27.36363636363637,True,12.05
+WB-PNE-0611,Eyelight Air Regulator,Pneumatic valves & cylinders,NC,B,Z,Medium,SUP-006,EU Industrial Components 06,1,0,2,2,110.0,,1.0,,True,12.04
+VL-CAB-0734,ERCO Lift Ribbon Cable,"Cables, connectors & harnesses",NC,C,Z,Medium,SUP-017,EU Industrial Components 17,1,0,2,2,77.14,,1.0,,True,12.04
+WA-PCB-0145,3D Aligner Processor Module,Control boards & displays,NC,A,Z,Medium,SUP-020,EU Industrial Components 20,1,1,2,3,1200.0,17.33333333333333,1.3,-16.033333333333328,True,12.02
+WB-HYD-0461,Eyelight Hydraulic Seal Kit,"Hydraulic pumps, hoses & seals",NC,B,Z,Medium,SUP-020,EU Industrial Components 20,2,1,3,2,200.0,,1.3,,True,12.02
+WB-CON-0118,ET Series Air Filter,Consumables & service kits,C,B,Y,Medium,SUP-005,Eastern Europe Industrial Components 05,14,6,15,7,86.94,26.00000000000002,1.4,-24.600000000000023,True,11.25
+TE-BRG-0020,Brake Tester Spindle Bearing,Bearings & shafts,C,A,Z,Medium,SUP-018,EU Industrial Components 18,6,2,7,4,420.0,31.20000000000005,1.3,-29.90000000000005,True,11.17
+WA-CON-0260,REMO Rubber Pad,Consumables & service kits,B,A,Y,Low,SUP-018,EU Industrial Components 18,12,6,14,10,192.5,13.664233576642339,1.3,-12.364233576642338,True,11.17
+WA-HYD-0077,Camera Aligner Hydraulic Seal Kit,"Hydraulic pumps, hoses & seals",NC,C,Z,Low,SUP-018,EU Industrial Components 18,1,0,2,3,64.19999999999999,,1.3,,True,11.17
+AD-CON-0483,SCE Calibration Protective Cover,Consumables & service kits,B,C,Y,Low,SUP-016,EU Industrial Components 16,10,4,11,8,42.72,12.480000000000004,1.1,-11.380000000000004,True,11.14
+WB-CON-0591,Eyelight Protective Cover,Consumables & service kits,B,B,Z,Low,SUP-007,Eastern Europe Industrial Components 07,8,4,11,12,108.12,12.865979381443294,1.4,-11.465979381443294,True,11.09
+AD-PNE-0068,Camera Calibration Pneumatic Cylinder,Pneumatic valves & cylinders,D,B,Z,High,SUP-010,EU Industrial Components 10,2,2,3,3,121.94999999999999,156.00000000000026,1.1,-154.90000000000026,True,11.08
+WB-CON-0696,Eyelight Air Filter,Consumables & service kits,C,C,Z,Low,SUP-012,Italy Industrial Components 12,5,2,6,4,18.68,26.00000000000004,1.0,-25.00000000000004,True,10.15
+TC-PCB-0524,A2024 LL I/O Board,Control boards & displays,NC,A,Z,Critical,SUP-016,EU Industrial Components 16,1,0,2,3,3690.0,,1.1,,True,10.14
+WB-CON-0677,Eyelight Protective Cover,Consumables & service kits,C,B,Z,Low,SUP-016,EU Industrial Components 16,7,4,8,6,47.82,29.513513513513537,1.1,-28.413513513513536,True,10.14
+WA-CON-0637,3D Aligner Filter Kit,Consumables & service kits,C,B,Y,Low,SUP-015,EU Industrial Components 15,9,4,10,7,65.94,13.245283018867916,1.4,-11.845283018867915,True,10.13
+WB-CON-0955,EM 9000 Rubber Pad,Consumables & service kits,C,B,Y,Critical,SUP-009,Italy Industrial Components 09,6,3,7,5,90.25,12.155844155844147,1.0,-11.155844155844147,True,9.13
+VL-CON-0284,Alignment Lift Service Seal Pack,Consumables & service kits,D,B,Z,Critical,SUP-002,Italy Industrial Components 02,6,3,7,5,148.75,52.00000000000017,1.0,-51.00000000000017,True,8.11

@@ -1,0 +1,6 @@
+Alert_Type,Status
+Inventory exceptions,REVIEW
+Planner exceptions,REVIEW
+Tray saturation,OK
+Warehouse saturation,OK
+Residual manual workload,OK

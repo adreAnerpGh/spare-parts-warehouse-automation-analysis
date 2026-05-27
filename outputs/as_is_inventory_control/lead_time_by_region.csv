@@ -1,0 +1,5 @@
+Supplier_Region,Parts,Avg_Lead_Time_Days,Avg_Lead_Time_SD_Days,Avg_Reliability_Score,Parts_Below_Reorder
+North America,62,19.0,3.0,0.86,2
+Eastern Europe,154,10.36,1.71,0.81,7
+EU,604,7.31,1.6,0.91,33
+Italy,180,4.0,1.25,0.87,5

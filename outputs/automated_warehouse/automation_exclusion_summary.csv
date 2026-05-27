@@ -1,0 +1,7 @@
+Automation_Exclusion_Reason,Parts,Total_Movement_Lines,Total_Occupied_Volume_cm3
+Candidate,377,5341,8224903
+Not stock-managed,299,215,10176716
+Operationally lower automation priority,205,482,16083529
+Exceeds recommended tray height,108,176,91755388
+Manual-only / oversized UDC,7,4,1382605
+Does not fit tray footprint,4,110,13463950

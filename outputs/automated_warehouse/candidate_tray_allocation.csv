@@ -1,0 +1,378 @@
+Part_ID,Part_Name,Part_Category,Movement_Class,Movement_Lines_36M,Manual_Location,UDC_Type,Dim_X_mm,Dim_Y_mm,Dim_Z_mm,Unit_Volume_cm3,Stock_Qty,Required_Volume_cm3,Proposed_Tray_Type,Compartments_Per_Tray,Compartment_Volume_cm3
+TC-CON-0329,A2024 LL Air Filter,Consumables & service kits,A+,313,R-E25,B,61,30,42,77,23,1771,B,50,4480.0
+TC-CON-0171,Basic Line TC Air Filter,Consumables & service kits,A+,227,R-L86,B,135,132,46,820,17,13940,B,50,4480.0
+VL-CON-0419,ERCO Lift O-Ring Kit,Consumables & service kits,A+,196,R-H98,D,151,131,127,2512,12,30144,B,50,4480.0
+TC-CON-0008,Basic Line TC Grease Cartridge,Consumables & service kits,A,59,R-M40,B,23,94,100,216,25,5400,B,50,4480.0
+TC-CON-0213,HD1200 Truck Rubber Pad,Consumables & service kits,A,58,R-M36,B,68,26,114,202,18,3636,B,50,4480.0
+TC-CON-0378,Artiglio Master O-Ring Kit,Consumables & service kits,A,58,R-Y59,B,141,30,96,406,9,3654,B,50,4480.0
+AD-CON-0798,Radar Calibration Lubrication Kit,Consumables & service kits,B,55,R-S24,B,73,48,87,305,8,2440,B,50,4480.0
+WB-CON-0087,ET Series Grease Cartridge,Consumables & service kits,B,51,R-I26,B,83,83,91,627,21,13167,B,50,4480.0
+WB-CON-0763,Mobile Balancer Grease Cartridge,Consumables & service kits,B,48,R-I40,B,100,93,14,130,23,2990,B,50,4480.0
+TE-CON-0986,Suspension Tester Lubrication Kit,Consumables & service kits,B,47,R-M42,B,23,23,5,3,10,30,B,50,4480.0
+VL-CON-0898,ERCO Lift Protective Cover,Consumables & service kits,B,44,R-F98,B,55,142,47,367,12,4404,B,50,4480.0
+VL-CON-0279,Two-Post Lift Rubber Pad,Consumables & service kits,B,42,R-N19,D,106,111,87,1024,11,11264,B,50,4480.0
+TC-CON-0347,A2024 LL Protective Cover,Consumables & service kits,B,37,R-N62,B,58,67,50,194,9,1746,B,50,4480.0
+WA-CON-0260,REMO Rubber Pad,Consumables & service kits,B,36,R-H95,B,41,85,112,390,7,2730,B,50,4480.0
+WA-CON-0328,REMO Lubrication Kit,Consumables & service kits,B,35,R-E80,B,37,109,57,230,7,1610,B,50,4480.0
+VL-CON-0536,Two-Post Lift Rubber Pad,Consumables & service kits,B,27,R-Z95,B,21,136,48,137,16,2192,B,50,4480.0
+TC-CON-0303,A2024 LL Lubrication Kit,Consumables & service kits,B,27,R-H59,B,48,136,19,124,20,2480,B,50,4480.0
+TC-CON-0773,Basic Line TC O-Ring Kit,Consumables & service kits,B,25,R-P98,B,117,112,92,1206,6,7236,B,50,4480.0
+TC-CON-0376,HD1200 Truck Air Filter,Consumables & service kits,B,19,R-A16,B,138,28,62,240,21,5040,B,50,4480.0
+WB-CON-0135,ET Series Lubrication Kit,Consumables & service kits,B,15,R-Z32,B,54,25,16,22,15,330,B,50,4480.0
+WB-CON-0217,ET Series Lubrication Kit,Consumables & service kits,B,15,R-C39,B,130,57,81,600,9,5400,B,50,4480.0
+WB-CON-0912,Mobile Balancer Air Filter,Consumables & service kits,B,13,R-N57,B,104,64,12,80,7,560,B,50,4480.0
+WB-CON-0925,Eyelight Air Filter,Consumables & service kits,B,13,R-Y93,B,27,141,88,335,13,4355,B,50,4480.0
+AD-CON-0111,Diagnostic Console Filter Kit,Consumables & service kits,C,11,R-N10,B,28,79,82,181,5,905,B,50,4480.0
+TC-CON-0982,A2024 LL Air Filter,Consumables & service kits,C,11,R-Z68,B,69,31,93,199,12,2388,B,50,4480.0
+TE-CON-0872,Suspension Tester O-Ring Kit,Consumables & service kits,C,11,R-Q79,B,62,97,32,192,22,4224,B,50,4480.0
+TC-BRG-0372,HD1200 Truck Main Shaft,Bearings & shafts,C,11,R-P14,B,129,132,93,1584,9,14256,B,50,4480.0
+TC-CON-0907,Artiglio Master Lubrication Kit,Consumables & service kits,C,10,R-H20,B,72,45,114,369,3,1107,B,50,4480.0
+WB-CON-0341,ET Series Lubrication Kit,Consumables & service kits,C,10,R-E54,B,47,142,56,374,5,1870,B,50,4480.0
+WA-CON-0829,Camera Aligner Protective Cover,Consumables & service kits,C,10,R-P74,B,33,137,49,222,17,3774,B,50,4480.0
+VL-CON-0594,Scissor Lift Grease Cartridge,Consumables & service kits,C,10,R-M98,B,70,138,90,869,9,7821,B,50,4480.0
+VL-CON-0770,ERCO Lift Air Filter,Consumables & service kits,C,10,R-Q88,B,137,101,115,1591,7,11137,B,50,4480.0
+WB-CON-0498,EM 9000 O-Ring Kit,Consumables & service kits,C,10,R-P98,B,133,82,80,872,19,16568,B,50,4480.0
+WA-CON-0939,3D Aligner Air Filter,Consumables & service kits,C,9,R-S40,B,50,40,94,188,3,564,B,50,4480.0
+AD-CMP-0746,Camera Calibration Turntable Clamp,"Clamps, jaws & tooling",C,9,R-C13,B,104,84,10,87,11,957,B,50,4480.0
+WA-BLT-0849,Camera Aligner Drive Belt,Belts & pulleys,C,9,R-C32,B,104,45,108,505,2,1010,B,50,4480.0
+TC-CON-0394,Artiglio Master Lubrication Kit,Consumables & service kits,C,9,R-Y61,B,99,57,81,457,8,3656,B,50,4480.0
+WB-CON-0118,ET Series Air Filter,Consumables & service kits,C,9,R-M56,B,106,76,107,862,8,6896,B,50,4480.0
+TC-CON-0857,Artiglio Master O-Ring Kit,Consumables & service kits,C,9,R-I68,B,106,126,27,361,20,7220,B,50,4480.0
+AD-CON-0354,SCE Calibration Service Seal Pack,Consumables & service kits,C,9,R-Q98,B,115,96,111,1225,24,29400,B,50,4480.0
+VL-CON-0112,ERCO Lift Lubrication Kit,Consumables & service kits,C,9,R-C20,B,117,146,103,1759,18,31662,B,50,4480.0
+VL-BLT-0648,Alignment Lift Pulley Wheel,Belts & pulleys,C,8,R-Z70,B,94,57,10,54,5,270,B,50,4480.0
+WA-CMP-0549,REMO Bead Breaker Pad,"Clamps, jaws & tooling",C,8,R-H91,B,44,35,58,89,18,1602,B,50,4480.0
+WB-BLT-0401,Mobile Balancer Drive Belt,Belts & pulleys,C,8,R-B88,B,96,106,24,244,11,2684,B,50,4480.0
+VL-CON-0900,Two-Post Lift Grease Cartridge,Consumables & service kits,C,8,R-T77,B,85,22,103,193,25,4825,B,50,4480.0
+TE-CON-0431,Brake Tester O-Ring Kit,Consumables & service kits,C,8,R-F88,B,99,123,59,718,7,5026,B,50,4480.0
+WB-CON-0365,Eyelight Lubrication Kit,Consumables & service kits,C,8,R-T90,D,137,120,143,2351,6,14106,B,50,4480.0
+TC-CON-0766,Artiglio Master Grease Cartridge,Consumables & service kits,C,7,R-F60,B,92,34,8,25,10,250,B,50,4480.0
+WB-CON-0526,Eyelight Rubber Pad,Consumables & service kits,C,7,R-M45,B,128,35,19,85,4,340,B,50,4480.0
+TC-BLT-0004,Artiglio Master Poly-V Belt,Belts & pulleys,C,7,R-P45,D,89,109,27,262,2,524,B,50,4480.0
+TC-CON-0683,Basic Line TC Air Filter,Consumables & service kits,C,7,R-B96,B,86,129,13,144,5,720,B,50,4480.0
+TE-CON-0810,Test Lane Service Seal Pack,Consumables & service kits,C,7,R-M53,B,88,24,24,51,15,765,B,50,4480.0
+VL-CON-0589,Two-Post Lift Rubber Pad,Consumables & service kits,C,7,R-G31,B,98,130,6,76,12,912,B,50,4480.0
+VL-CON-0352,ERCO Lift Rubber Pad,Consumables & service kits,C,7,R-H95,B,31,56,78,135,9,1215,B,50,4480.0
+WB-CON-0812,ET Series Protective Cover,Consumables & service kits,C,7,R-P46,B,136,30,103,420,3,1260,B,50,4480.0
+VL-CON-0544,ERCO Lift Service Seal Pack,Consumables & service kits,C,7,R-T70,B,79,42,107,355,5,1775,B,50,4480.0
+WB-CON-0677,Eyelight Protective Cover,Consumables & service kits,C,7,R-B60,B,92,71,75,490,4,1960,B,50,4480.0
+WA-CON-0048,REMO Grease Cartridge,Consumables & service kits,C,7,R-Q77,B,128,93,65,774,8,6192,B,50,4480.0
+WB-BRG-0140,Mobile Balancer Hub Shaft,Bearings & shafts,C,6,R-A22,B,87,34,93,275,5,1375,B,50,4480.0
+WB-CON-0245,Mobile Balancer Filter Kit,Consumables & service kits,C,6,R-B63,B,39,149,29,169,12,2028,B,50,4480.0
+WA-BLT-0233,REMO Belt Tensioner,Belts & pulleys,C,6,R-I96,B,108,50,54,292,7,2044,B,50,4480.0
+TC-BLT-0409,Basic Line TC Drive Belt,Belts & pulleys,C,6,R-D68,B,94,137,88,1133,4,4532,B,50,4480.0
+TC-CON-0474,Basic Line TC Filter Kit,Consumables & service kits,C,6,R-Y12,B,88,78,64,439,11,4829,B,50,4480.0
+VL-CON-0924,Two-Post Lift Grease Cartridge,Consumables & service kits,C,6,R-D20,B,89,118,86,903,9,8127,B,50,4480.0
+WA-CON-0017,3D Aligner O-Ring Kit,Consumables & service kits,C,5,R-M33,B,29,53,40,61,11,671,B,50,4480.0
+WA-CON-0667,REMO Grease Cartridge,Consumables & service kits,C,5,R-C52,B,91,99,87,784,4,3136,B,50,4480.0
+TC-CON-0630,Basic Line TC Protective Cover,Consumables & service kits,C,5,R-S29,D,109,128,153,2135,3,6405,B,50,4480.0
+WB-BLT-0664,Eyelight Belt Tensioner,Belts & pulleys,C,4,R-E03,B,67,22,51,75,4,300,B,50,4480.0
+VL-BLT-0882,Two-Post Lift Transmission Pulley,Belts & pulleys,C,4,R-C13,B,109,40,58,253,6,1518,B,50,4480.0
+TE-CON-0612,Suspension Tester Grease Cartridge,Consumables & service kits,C,4,R-S80,B,61,136,37,307,6,1842,B,50,4480.0
+TC-CON-0994,Basic Line TC O-Ring Kit,Consumables & service kits,C,4,R-N56,B,60,142,79,673,6,4038,B,50,4480.0
+WA-BLT-0645,Camera Aligner Drive Belt,Belts & pulleys,C,4,R-I39,B,122,78,76,723,7,5061,B,50,4480.0
+TC-CON-0294,Basic Line TC Protective Cover,Consumables & service kits,C,4,R-C81,E,126,120,101,1527,13,19851,B,50,4480.0
+WB-BLT-0732,Eyelight Belt Tensioner,Belts & pulleys,D,3,R-S80,B,55,27,83,123,1,123,B,50,4480.0
+TC-CON-0654,Artiglio Master Rubber Pad,Consumables & service kits,C,3,R-N53,B,57,33,12,23,9,207,B,50,4480.0
+WB-BLT-0948,EM 9000 Transmission Pulley,Belts & pulleys,D,3,R-F90,B,58,98,22,125,2,250,B,50,4480.0
+WB-CON-0189,ET Series O-Ring Kit,Consumables & service kits,C,3,R-N18,B,46,34,54,84,6,504,B,50,4480.0
+VL-CAB-0747,Two-Post Lift Sensor Harness,"Cables, connectors & harnesses",D,3,R-Z95,B,85,28,111,264,3,792,B,50,4480.0
+TC-BLT-0426,Artiglio Master Pulley Wheel,Belts & pulleys,D,3,R-Z94,B,70,124,41,356,3,1068,B,50,4480.0
+WA-BLT-0216,Exact Precision Belt Tensioner,Belts & pulleys,D,3,R-H72,B,132,43,51,289,5,1445,B,50,4480.0
+TC-CMP-0380,Artiglio Master Wheel Clamp,"Clamps, jaws & tooling",D,3,R-B97,B,81,53,91,391,4,1564,B,50,4480.0
+WB-SNS-0434,EM 9000 Speed Sensor,"Sensors, encoders & switches",D,3,R-I76,B,91,84,58,443,4,1772,B,50,4480.0
+VL-SNS-0794,Alignment Lift Limit Switch,"Sensors, encoders & switches",D,3,R-H32,B,125,124,59,914,2,1828,B,50,4480.0
+WA-CAB-0124,Exact Precision Sensor Harness,"Cables, connectors & harnesses",D,3,R-S07,B,118,81,34,325,7,2275,B,50,4480.0
+VL-CON-0584,Two-Post Lift Service Seal Pack,Consumables & service kits,D,3,R-G66,B,37,132,105,513,7,3591,B,50,4480.0
+WB-CON-0935,Eyelight Rubber Pad,Consumables & service kits,C,3,R-Q15,B,49,117,62,355,13,4615,B,50,4480.0
+TC-CAB-0291,HD1200 Truck Signal Cable,"Cables, connectors & harnesses",D,3,R-Q71,B,75,113,97,822,7,5754,B,50,4480.0
+TC-CON-0509,Basic Line TC Filter Kit,Consumables & service kits,C,3,R-Y25,B,98,98,74,711,13,9243,B,50,4480.0
+TC-BLT-0534,HD1200 Truck Drive Belt,Belts & pulleys,D,3,R-H11,B,90,146,101,1327,7,9289,B,50,4480.0
+VL-BLT-0622,Scissor Lift Timing Belt,Belts & pulleys,D,3,R-A77,B,133,125,92,1530,13,19890,B,50,4480.0
+VL-CON-0497,Two-Post Lift Grease Cartridge,Consumables & service kits,D,2,R-F59,B,61,38,21,49,7,343,B,50,4480.0
+WB-PNE-0790,Mobile Balancer Air Regulator,Pneumatic valves & cylinders,D,2,R-B37,B,124,20,65,161,3,483,B,50,4480.0
+AD-BLT-0432,Camera Calibration Pulley Wheel,Belts & pulleys,D,2,R-B35,B,51,34,66,114,5,570,B,50,4480.0
+WA-CAB-0547,3D Aligner Sensor Harness,"Cables, connectors & harnesses",D,2,R-F18,B,93,36,63,211,3,633,B,50,4480.0
+WA-CAB-0778,Exact Precision Sensor Harness,"Cables, connectors & harnesses",D,2,R-Y26,B,149,103,24,368,2,736,B,50,4480.0
+AD-BLT-0184,Diagnostic Console Timing Belt,Belts & pulleys,D,2,R-M37,B,93,128,21,250,3,750,B,50,4480.0
+TE-BRG-0890,Test Lane Support Bushing,Bearings & shafts,D,2,R-F05,B,63,32,82,165,6,990,B,50,4480.0
+WB-CAB-0142,Mobile Balancer Ribbon Cable,"Cables, connectors & harnesses",D,2,R-G95,B,29,137,84,334,4,1336,B,50,4480.0
+WB-BRG-0445,EM 9000 Support Bushing,Bearings & shafts,D,2,R-S79,B,101,139,51,716,2,1432,B,50,4480.0
+AD-CAB-0317,Camera Calibration Usb Interface Cable,"Cables, connectors & harnesses",D,2,R-H43,B,131,113,44,651,3,1953,B,50,4480.0
+WA-CAB-0889,Camera Aligner Power Cable,"Cables, connectors & harnesses",D,2,R-T50,B,45,140,49,309,7,2163,B,50,4480.0
+WA-CON-0090,3D Aligner Lubrication Kit,Consumables & service kits,C,2,R-C14,B,60,107,44,282,8,2256,B,50,4480.0
+WA-PNE-0627,Exact Precision Pressure Switch,Pneumatic valves & cylinders,D,2,R-S76,D,97,121,110,1291,2,2582,B,50,4480.0
+AD-BRG-0029,Radar Calibration Hub Shaft,Bearings & shafts,C,2,R-N82,B,99,84,104,865,3,2595,B,50,4480.0
+WA-BLT-0230,Camera Aligner Pulley Wheel,Belts & pulleys,D,2,R-B66,D,158,123,36,700,4,2800,B,50,4480.0
+TC-BLT-0377,HD1200 Truck Pulley Wheel,Belts & pulleys,D,2,R-M98,B,119,73,66,573,5,2865,B,50,4480.0
+TC-BLT-0069,Artiglio Master Belt Tensioner,Belts & pulleys,D,2,R-S34,B,67,85,110,626,5,3130,B,50,4480.0
+TC-BRG-0384,HD1200 Truck Roller Bearing,Bearings & shafts,D,2,R-L44,D,82,137,41,461,7,3227,B,50,4480.0
+WB-CON-0621,Eyelight Protective Cover,Consumables & service kits,C,2,R-S34,B,45,116,83,433,8,3464,B,50,4480.0
+WA-BLT-0034,Camera Aligner Drive Belt,Belts & pulleys,D,2,R-Y51,B,82,126,53,548,7,3836,B,50,4480.0
+TC-BRG-0348,Basic Line TC Bearing Set,Bearings & shafts,D,2,R-Z23,B,99,90,109,971,4,3884,B,50,4480.0
+WB-CON-0958,Mobile Balancer Protective Cover,Consumables & service kits,C,2,R-D06,B,55,128,59,415,10,4150,B,50,4480.0
+TC-BRG-0869,HD1200 Truck Bearing Set,Bearings & shafts,D,2,R-I01,B,140,81,92,1043,4,4172,B,50,4480.0
+VL-BLT-0783,Two-Post Lift Drive Belt,Belts & pulleys,D,2,R-L76,B,76,149,100,1132,4,4528,B,50,4480.0
+TC-BLT-0482,HD1200 Truck Motor Belt,Belts & pulleys,D,1,R-I33,B,28,34,7,7,7,49,B,50,4480.0
+WB-SNS-0227,Mobile Balancer Calibration Sensor,"Sensors, encoders & switches",NC,1,R-S68,B,21,37,51,40,2,80,B,50,4480.0
+WB-SNS-0018,EM 9000 Position Sensor,"Sensors, encoders & switches",D,1,R-A88,B,104,140,8,116,1,116,B,50,4480.0
+WB-CON-0707,Eyelight Filter Kit,Consumables & service kits,C,1,R-Z66,B,44,24,25,26,5,130,B,50,4480.0
+TC-BRG-0182,HD1200 Truck Hub Shaft,Bearings & shafts,D,1,R-Z45,B,36,46,51,84,2,168,B,50,4480.0
+TC-BLT-0127,HD1200 Truck Timing Belt,Belts & pulleys,D,1,R-Y77,B,73,84,16,98,2,196,B,50,4480.0
+WA-BRG-0248,Camera Aligner Balancer Shaft,Bearings & shafts,D,1,R-M10,B,24,102,58,142,2,284,B,50,4480.0
+WA-BLT-0666,Exact Precision Motor Belt,Belts & pulleys,D,1,R-P57,B,99,55,29,158,2,316,B,50,4480.0
+AD-CON-0990,Diagnostic Console Grease Cartridge,Consumables & service kits,C,1,R-I23,B,20,31,107,66,5,330,B,50,4480.0
+WA-BRG-0888,Exact Precision Balancer Shaft,Bearings & shafts,D,1,R-N74,B,24,32,87,67,5,335,B,50,4480.0
+TC-PNE-0152,Artiglio Master Foot Pedal Valve,Pneumatic valves & cylinders,NC,1,R-I26,B,129,125,11,177,2,354,B,50,4480.0
+AD-SNS-0286,SCE Calibration Proximity Switch,"Sensors, encoders & switches",D,1,R-I90,B,67,88,15,88,6,528,B,50,4480.0
+VL-BRG-0071,Scissor Lift Main Shaft,Bearings & shafts,D,1,R-N71,B,93,117,10,109,5,545,B,50,4480.0
+WB-BRG-0022,EM 9000 Main Shaft,Bearings & shafts,D,1,R-T14,B,25,103,31,80,7,560,B,50,4480.0
+AD-BRG-0684,Diagnostic Console Bearing Set,Bearings & shafts,D,1,R-D69,B,87,53,70,323,2,646,B,50,4480.0
+WB-SNS-0932,ET Series Position Sensor,"Sensors, encoders & switches",D,1,R-C30,B,21,82,66,114,6,684,B,50,4480.0
+VL-BRG-0261,Alignment Lift Spindle Bearing,Bearings & shafts,D,1,R-I75,B,125,144,39,702,1,702,B,50,4480.0
+VL-BRG-0814,Scissor Lift Hub Shaft,Bearings & shafts,D,1,R-I75,B,112,47,46,242,3,726,B,50,4480.0
+TC-CAB-0558,A2024 LL Usb Interface Cable,"Cables, connectors & harnesses",D,1,R-T37,B,90,75,109,736,1,736,B,50,4480.0
+WB-BLT-0240,EM 9000 Motor Belt,Belts & pulleys,C,1,R-F04,B,29,57,112,185,4,740,B,50,4480.0
+AD-CMP-0821,Diagnostic Console Turntable Clamp,"Clamps, jaws & tooling",D,1,R-M15,B,106,100,70,742,1,742,B,50,4480.0
+VL-BLT-0415,Two-Post Lift Poly-V Belt,Belts & pulleys,D,1,R-L88,B,104,84,8,70,13,910,B,50,4480.0
+VL-PNE-0501,Alignment Lift Pressure Switch,Pneumatic valves & cylinders,D,1,R-F42,B,110,107,39,459,2,918,B,50,4480.0
+WB-CMP-0659,Eyelight Jaw Cover,"Clamps, jaws & tooling",D,1,R-I15,B,59,118,19,132,7,924,B,50,4480.0
+TE-CAB-0562,Inspection Line Terminal Block,"Cables, connectors & harnesses",D,1,R-H89,B,63,119,26,195,5,975,B,50,4480.0
+TC-BRG-0177,A2024 LL Bearing Set,Bearings & shafts,D,1,R-D60,B,72,125,29,261,4,1044,B,50,4480.0
+TC-BLT-0499,A2024 LL Pulley Wheel,Belts & pulleys,D,1,R-Q78,B,55,125,80,550,2,1100,B,50,4480.0
+WB-BRG-0267,Eyelight Balancer Shaft,Bearings & shafts,D,1,R-E68,B,104,142,20,295,4,1180,B,50,4480.0
+VL-SNS-0785,ERCO Lift Limit Switch,"Sensors, encoders & switches",D,1,R-B70,B,57,63,90,323,4,1292,B,50,4480.0
+VL-CON-0252,Scissor Lift Protective Cover,Consumables & service kits,D,1,R-G13,B,48,22,94,99,14,1386,B,50,4480.0
+WB-BLT-0222,ET Series Transmission Pulley,Belts & pulleys,D,1,R-D90,B,115,36,116,480,3,1440,B,50,4480.0
+TC-CON-0597,Artiglio Master Grease Cartridge,Consumables & service kits,C,1,R-I65,B,40,59,71,168,9,1512,B,50,4480.0
+TC-BRG-0870,A2024 LL Spindle Bearing,Bearings & shafts,D,1,R-Y42,B,149,127,32,606,3,1818,B,50,4480.0
+WB-CON-0919,Eyelight Lubrication Kit,Consumables & service kits,C,1,R-G32,B,141,127,14,251,10,2510,B,50,4480.0
+TC-CON-0503,Artiglio Master O-Ring Kit,Consumables & service kits,D,1,R-T62,B,29,121,95,333,8,2664,B,50,4480.0
+VL-CAB-0959,Alignment Lift Terminal Block,"Cables, connectors & harnesses",D,1,R-F35,B,131,134,81,1422,2,2844,B,50,4480.0
+WB-BLT-0366,Mobile Balancer Pulley Wheel,Belts & pulleys,D,1,R-D90,D,103,113,62,722,4,2888,B,50,4480.0
+TE-SNS-0492,Test Lane Speed Sensor,"Sensors, encoders & switches",NC,1,R-B78,B,133,129,92,1578,2,3156,B,50,4480.0
+TC-MTR-0969,Artiglio Master Inverter Drive,"Motors, drives & gearboxes",NC,1,R-Q68,D,97,91,132,1165,3,3495,B,50,4480.0
+WB-BRG-0403,Mobile Balancer Hub Shaft,Bearings & shafts,D,1,R-A21,B,77,97,79,590,6,3540,B,50,4480.0
+TE-CAB-0988,Brake Tester Terminal Block,"Cables, connectors & harnesses",D,1,R-H97,B,78,87,75,509,8,4072,B,50,4480.0
+AD-BLT-0028,Radar Calibration Motor Belt,Belts & pulleys,D,1,R-D75,D,110,143,42,661,7,4627,B,50,4480.0
+TC-CON-0970,A2024 LL Lubrication Kit,Consumables & service kits,C,1,R-P75,B,23,117,110,296,16,4736,B,50,4480.0
+WB-BLT-0288,Eyelight Poly-V Belt,Belts & pulleys,D,1,R-Z24,B,87,123,84,899,6,5394,B,50,4480.0
+TC-CMP-0786,A2024 LL Jaw Cover,"Clamps, jaws & tooling",D,1,R-Z67,B,143,68,80,778,9,7002,B,50,4480.0
+WA-CMP-0895,REMO Bead Breaker Pad,"Clamps, jaws & tooling",D,1,R-C98,B,125,128,116,1856,4,7424,B,50,4480.0
+WA-BRG-0141,REMO Spindle Bearing,Bearings & shafts,D,1,R-F22,B,69,97,101,676,11,7436,B,50,4480.0
+TC-SNS-0951,Artiglio Master Speed Sensor,"Sensors, encoders & switches",D,1,R-I78,E,129,123,109,1730,5,8650,B,50,4480.0
+WA-CON-0080,REMO Rubber Pad,Consumables & service kits,C,1,R-N38,B,148,90,62,826,11,9086,B,50,4480.0
+TC-CON-0582,Artiglio Master Air Filter,Consumables & service kits,C,1,R-B14,B,40,111,84,373,26,9698,B,50,4480.0
+TC-PNE-0824,Basic Line TC Manifold Valve,Pneumatic valves & cylinders,D,1,R-S15,B,145,106,97,1491,7,10437,B,50,4480.0
+TC-BLT-0742,A2024 LL Belt Tensioner,Belts & pulleys,D,1,R-N58,E,138,126,131,2278,5,11390,B,50,4480.0
+TC-BLT-0921,A2024 LL Pulley Wheel,Belts & pulleys,D,1,R-H72,B,132,105,118,1635,7,11445,B,50,4480.0
+VL-CON-0860,Scissor Lift Grease Cartridge,Consumables & service kits,C,1,R-I85,D,97,136,102,1346,10,13460,B,50,4480.0
+WA-CAB-0918,REMO Connector Kit,"Cables, connectors & harnesses",NC,0,R-S75,B,48,33,16,25,2,50,B,50,4480.0
+TC-BLT-0915,A2024 LL Motor Belt,Belts & pulleys,D,0,R-Z58,B,39,58,21,48,2,96,B,50,4480.0
+AD-BRG-0850,Camera Calibration Hub Shaft,Bearings & shafts,D,0,R-P83,B,68,71,37,179,1,179,B,50,4480.0
+TE-SNS-0223,Brake Tester Speed Sensor,"Sensors, encoders & switches",NC,0,R-Z18,B,31,30,66,61,3,183,B,50,4480.0
+TC-CAB-0827,Artiglio Master Usb Interface Cable,"Cables, connectors & harnesses",D,0,R-M49,B,27,142,24,92,2,184,B,50,4480.0
+TC-MTR-0938,HD1200 Truck Servo Motor,"Motors, drives & gearboxes",NC,0,R-Q20,B,101,23,43,100,2,200,B,50,4480.0
+TC-SNS-0231,Artiglio Master Encoder Sensor,"Sensors, encoders & switches",D,0,R-Y05,B,21,113,17,40,5,200,B,50,4480.0
+TC-SNS-0074,A2024 LL Calibration Sensor,"Sensors, encoders & switches",D,0,R-P82,B,105,90,27,255,1,255,B,50,4480.0
+TE-CMP-0121,Brake Tester Jaw Cover,"Clamps, jaws & tooling",D,0,R-Z22,B,22,66,99,144,2,288,B,50,4480.0
+WB-SNS-0722,Mobile Balancer Proximity Switch,"Sensors, encoders & switches",NC,0,R-F49,B,22,120,109,288,1,288,B,50,4480.0
+VL-CMP-0945,ERCO Lift Mounting Head,"Clamps, jaws & tooling",D,0,R-P21,B,104,39,12,49,6,294,B,50,4480.0
+TC-SNS-0522,Artiglio Master Encoder Sensor,"Sensors, encoders & switches",NC,0,R-T57,B,28,98,56,154,2,308,B,50,4480.0
+WB-SAF-0441,EM 9000 Safety Latch,"Safety locks, guards & interlocks",NC,0,R-T94,B,33,110,29,105,3,315,B,50,4480.0
+TC-BRG-0186,Basic Line TC Hub Shaft,Bearings & shafts,D,0,R-A24,B,22,87,29,56,7,392,B,50,4480.0
+AD-PCB-0285,Camera Calibration Power Supply Board,Control boards & displays,NC,0,R-E48,B,107,139,28,416,1,416,B,50,4480.0
+WB-MTR-0933,Eyelight Gear Motor,"Motors, drives & gearboxes",NC,0,R-Z92,B,111,89,24,237,2,474,B,50,4480.0
+TC-SNS-0711,HD1200 Truck Proximity Switch,"Sensors, encoders & switches",NC,0,R-Q04,D,107,156,10,167,3,501,B,50,4480.0
+VL-MTR-0420,Two-Post Lift Motor Brake,"Motors, drives & gearboxes",NC,0,R-H21,B,26,146,44,167,3,501,B,50,4480.0
+TE-SNS-0010,Brake Tester Encoder Sensor,"Sensors, encoders & switches",D,0,R-Q64,B,118,103,22,267,2,534,B,50,4480.0
+TE-CMP-0949,Brake Tester Bead Breaker Pad,"Clamps, jaws & tooling",D,0,R-T34,B,104,30,95,296,2,592,B,50,4480.0
+TC-SNS-0123,A2024 LL Limit Switch,"Sensors, encoders & switches",NC,0,R-Y17,B,91,93,21,178,4,712,B,50,4480.0
+WA-SNS-0465,3D Aligner Speed Sensor,"Sensors, encoders & switches",NC,0,R-A72,B,31,54,117,196,4,784,B,50,4480.0
+WB-CMP-0232,EM 9000 Cone Adaptor,"Clamps, jaws & tooling",NC,0,R-Z19,B,87,55,56,268,3,804,B,50,4480.0
+TE-PCB-0708,Suspension Tester Operator Panel,Control boards & displays,NC,0,R-Q26,B,34,120,41,167,5,835,B,50,4480.0
+WA-SNS-0337,3D Aligner Load Cell,"Sensors, encoders & switches",D,0,R-C24,B,121,117,32,453,2,906,B,50,4480.0
+AD-BRG-0543,Camera Calibration Spindle Bearing,Bearings & shafts,D,0,R-I47,B,27,116,75,235,4,940,B,50,4480.0
+AD-CMP-0586,Camera Calibration Mounting Head,"Clamps, jaws & tooling",D,0,R-Z06,B,78,30,106,248,4,992,B,50,4480.0
+WB-CAB-0197,ET Series Ribbon Cable,"Cables, connectors & harnesses",D,0,R-S96,B,83,112,58,539,2,1078,B,50,4480.0
+VL-CMP-0353,Alignment Lift Jaw Cover,"Clamps, jaws & tooling",D,0,R-B46,B,43,128,67,369,3,1107,B,50,4480.0
+TC-BLT-0062,A2024 LL Timing Belt,Belts & pulleys,D,0,R-S82,B,78,48,110,412,3,1236,B,50,4480.0
+WB-CAB-0749,Mobile Balancer Sensor Harness,"Cables, connectors & harnesses",D,0,R-B48,B,50,142,58,412,3,1236,B,50,4480.0
+TC-BRG-0595,Artiglio Master Hub Shaft,Bearings & shafts,NC,0,R-D20,B,100,88,49,431,3,1293,B,50,4480.0
+WB-SNS-0139,ET Series Calibration Sensor,"Sensors, encoders & switches",NC,0,R-H21,B,146,39,118,672,2,1344,B,50,4480.0
+TC-MTR-0116,A2024 LL Inverter Drive,"Motors, drives & gearboxes",NC,0,R-L13,B,59,137,84,679,2,1358,B,50,4480.0
+VL-CAB-0593,ERCO Lift Ribbon Cable,"Cables, connectors & harnesses",D,0,R-H46,D,137,125,40,685,2,1370,B,50,4480.0
+VL-SNS-0504,Two-Post Lift Encoder Sensor,"Sensors, encoders & switches",NC,0,R-A91,B,144,143,34,700,2,1400,B,50,4480.0
+TC-BRG-0321,Artiglio Master Balancer Shaft,Bearings & shafts,D,0,R-I28,B,90,81,45,328,5,1640,B,50,4480.0
+TE-SNS-0525,Inspection Line Speed Sensor,"Sensors, encoders & switches",NC,0,R-E08,B,85,44,77,288,6,1728,B,50,4480.0
+TC-PCB-0633,Basic Line TC Power Supply Board,Control boards & displays,NC,0,R-A65,B,81,108,100,875,2,1750,B,50,4480.0
+TC-SNS-0320,A2024 LL Calibration Sensor,"Sensors, encoders & switches",NC,0,R-M89,B,122,43,116,609,3,1827,B,50,4480.0
+TC-SNS-0694,HD1200 Truck Speed Sensor,"Sensors, encoders & switches",NC,0,R-N97,B,85,50,119,506,4,2024,B,50,4480.0
+WB-CMP-0610,ET Series Turntable Clamp,"Clamps, jaws & tooling",D,0,R-T29,B,50,94,113,531,4,2124,B,50,4480.0
+WB-BRG-0688,Mobile Balancer Roller Bearing,Bearings & shafts,D,0,R-S50,B,121,65,70,551,4,2204,B,50,4480.0
+WA-PNE-0906,Exact Precision Solenoid Valve,Pneumatic valves & cylinders,D,0,R-N32,B,32,139,84,374,7,2618,B,50,4480.0
+WA-PCB-0214,Exact Precision Operator Panel,Control boards & displays,NC,0,R-Q07,B,138,64,62,548,5,2740,B,50,4480.0
+WB-PNE-0816,Mobile Balancer Air Hose Set,Pneumatic valves & cylinders,D,0,R-M01,B,63,101,91,579,5,2895,B,50,4480.0
+WB-SNS-0468,ET Series Calibration Sensor,"Sensors, encoders & switches",D,0,R-G28,B,113,77,113,983,3,2949,B,50,4480.0
+VL-PNE-0437,Two-Post Lift Foot Pedal Valve,Pneumatic valves & cylinders,D,0,R-I01,B,145,90,60,783,4,3132,B,50,4480.0
+TE-BRG-0109,Suspension Tester Support Bushing,Bearings & shafts,D,0,R-I77,B,140,65,35,318,10,3180,B,50,4480.0
+WB-CAB-0386,Eyelight Usb Interface Cable,"Cables, connectors & harnesses",D,0,R-E08,B,56,94,108,569,6,3414,B,50,4480.0
+WB-CAB-0929,EM 9000 Sensor Harness,"Cables, connectors & harnesses",D,0,R-N65,B,53,141,117,874,4,3496,B,50,4480.0
+TC-MTR-0670,HD1200 Truck Electric Motor,"Motors, drives & gearboxes",NC,0,R-Z19,B,123,148,60,1092,4,4368,B,50,4480.0
+TE-CON-0977,Inspection Line Lubrication Kit,Consumables & service kits,D,0,R-I21,B,127,141,21,376,12,4512,B,50,4480.0
+VL-BLT-0132,Two-Post Lift Poly-V Belt,Belts & pulleys,D,0,R-C75,B,132,63,112,931,5,4655,B,50,4480.0
+TC-BLT-0455,HD1200 Truck Transmission Pulley,Belts & pulleys,D,0,R-S95,D,137,125,31,531,9,4779,B,50,4480.0
+AD-CMP-0739,Camera Calibration Cone Adaptor,"Clamps, jaws & tooling",D,0,R-T32,D,88,81,168,1198,4,4792,B,50,4480.0
+TC-BLT-0514,Basic Line TC Belt Tensioner,Belts & pulleys,D,0,R-Z35,B,49,149,66,482,10,4820,B,50,4480.0
+TE-BRG-0436,Inspection Line Spindle Bearing,Bearings & shafts,D,0,R-P59,B,132,90,114,1354,4,5416,B,50,4480.0
+VL-BRG-0867,Scissor Lift Bearing Set,Bearings & shafts,D,0,R-Z21,D,143,100,124,1773,10,17730,B,50,4480.0
+VL-CON-0336,Scissor Lift Air Filter,Consumables & service kits,A+,395,R-B17,D,258,91,20,470,23,10810,D,16,14000.0
+WA-CON-0631,Exact Precision Lubrication Kit,Consumables & service kits,A+,231,R-F76,D,177,98,143,2480,16,39680,D,16,14000.0
+WA-CON-0494,Camera Aligner O-Ring Kit,Consumables & service kits,A+,227,R-F91,D,299,144,108,4650,34,158100,D,16,14000.0
+WA-CON-0200,Camera Aligner Protective Cover,Consumables & service kits,A+,145,R-N53,D,254,199,16,809,17,13753,D,16,14000.0
+TC-CON-0911,HD1200 Truck Service Seal Pack,Consumables & service kits,A,120,R-G10,D,90,182,70,1147,7,8029,D,16,14000.0
+WB-CON-0276,EM 9000 Grease Cartridge,Consumables & service kits,A,86,R-B54,D,287,200,22,1263,7,8841,D,16,14000.0
+WB-CON-0672,EM 9000 Rubber Pad,Consumables & service kits,A,80,R-M65,D,168,204,127,4353,13,56589,D,16,14000.0
+WB-CON-0005,Eyelight Rubber Pad,Consumables & service kits,A,78,R-D26,D,133,195,127,3294,18,59292,D,16,14000.0
+AD-CON-0459,Diagnostic Console Protective Cover,Consumables & service kits,B,56,R-G54,D,261,102,37,985,10,9850,D,16,14000.0
+WA-CON-0241,Exact Precision Filter Kit,Consumables & service kits,B,55,R-B55,D,190,136,35,904,5,4520,D,16,14000.0
+TE-CON-0893,Suspension Tester Grease Cartridge,Consumables & service kits,B,53,R-C81,D,172,158,119,3234,8,25872,D,16,14000.0
+WB-CON-0665,EM 9000 Lubrication Kit,Consumables & service kits,B,50,R-B73,E,336,126,36,1524,15,22860,D,16,14000.0
+WB-CON-0120,EM 9000 Rubber Pad,Consumables & service kits,B,46,R-G35,E,190,297,49,2765,25,69125,D,16,14000.0
+TC-CON-0433,HD1200 Truck O-Ring Kit,Consumables & service kits,B,39,R-Y61,D,236,95,108,2421,13,31473,D,16,14000.0
+WB-CON-0813,Eyelight Rubber Pad,Consumables & service kits,B,39,R-Y74,E,166,370,45,2764,12,33168,D,16,14000.0
+TC-CON-0699,HD1200 Truck Service Seal Pack,Consumables & service kits,B,38,R-Y47,D,83,244,26,527,14,7378,D,16,14000.0
+TC-CON-0700,A2024 LL Lubrication Kit,Consumables & service kits,B,34,R-F72,D,278,80,136,3025,15,45375,D,16,14000.0
+VL-CON-0238,Scissor Lift Filter Kit,Consumables & service kits,B,33,R-Z89,D,265,169,96,4299,13,55887,D,16,14000.0
+TC-CON-0067,Basic Line TC O-Ring Kit,Consumables & service kits,B,32,R-N15,D,169,213,79,2844,22,62568,D,16,14000.0
+AD-CON-0771,Camera Calibration Air Filter,Consumables & service kits,B,32,R-I26,E,163,319,166,8632,17,146744,D,16,14000.0
+TC-CON-0333,HD1200 Truck Service Seal Pack,Consumables & service kits,B,31,R-L16,D,225,174,110,4306,14,60284,D,16,14000.0
+AD-CON-0592,Diagnostic Console Lubrication Kit,Consumables & service kits,B,29,R-G17,E,149,368,47,2577,10,25770,D,16,14000.0
+VL-CON-0387,ERCO Lift Filter Kit,Consumables & service kits,B,29,R-G14,E,348,131,132,6018,9,54162,D,16,14000.0
+TC-CON-0740,Artiglio Master Protective Cover,Consumables & service kits,B,29,R-S07,D,173,234,146,5910,17,100470,D,16,14000.0
+WA-CON-0721,3D Aligner Grease Cartridge,Consumables & service kits,B,25,R-Q31,E,214,130,82,2281,11,25091,D,16,14000.0
+WB-CON-0290,Mobile Balancer Protective Cover,Consumables & service kits,B,21,R-N39,D,264,164,64,2771,6,16626,D,16,14000.0
+VL-CON-0158,Two-Post Lift Air Filter,Consumables & service kits,B,20,R-S04,D,223,174,151,5859,11,64449,D,16,14000.0
+WB-CON-0195,Eyelight Grease Cartridge,Consumables & service kits,B,18,R-N66,D,276,121,62,2071,31,64201,D,16,14000.0
+TE-CON-0310,Brake Tester Rubber Pad,Consumables & service kits,B,17,R-B30,D,210,162,19,646,18,11628,D,16,14000.0
+TC-CON-0190,HD1200 Truck Service Seal Pack,Consumables & service kits,B,14,R-Q29,E,266,186,150,7421,5,37105,D,16,14000.0
+WB-CON-0696,Eyelight Air Filter,Consumables & service kits,C,11,R-E65,D,150,181,31,842,3,2526,D,16,14000.0
+WB-BRG-0188,Mobile Balancer Bearing Set,Bearings & shafts,C,11,R-E43,E,125,213,27,719,5,3595,D,16,14000.0
+WA-CON-0179,3D Aligner Protective Cover,Consumables & service kits,C,11,R-Y03,E,232,120,24,668,8,5344,D,16,14000.0
+WA-CON-0410,Exact Precision Grease Cartridge,Consumables & service kits,C,10,R-M62,D,161,145,54,1261,10,12610,D,16,14000.0
+WA-BRG-0697,Exact Precision Hub Shaft,Bearings & shafts,C,9,R-Z82,E,269,135,42,1525,2,3050,D,16,14000.0
+AD-CON-0762,SCE Calibration Air Filter,Consumables & service kits,C,9,R-L35,D,205,166,63,2144,4,8576,D,16,14000.0
+VL-CON-0513,ERCO Lift Filter Kit,Consumables & service kits,C,9,R-Y09,D,116,233,108,2919,12,35028,D,16,14000.0
+TE-CON-0521,Inspection Line Protective Cover,Consumables & service kits,C,8,R-P96,D,167,114,10,190,5,950,D,16,14000.0
+TC-BRG-0797,A2024 LL Support Bushing,Bearings & shafts,C,8,R-P33,D,152,208,51,1612,4,6448,D,16,14000.0
+VL-BRG-0767,Alignment Lift Bearing Set,Bearings & shafts,C,7,R-Z02,D,172,92,13,206,11,2266,D,16,14000.0
+VL-BLT-0205,ERCO Lift Drive Belt,Belts & pulleys,C,7,R-T41,E,167,158,45,1187,5,5935,D,16,14000.0
+TC-CON-0187,HD1200 Truck Rubber Pad,Consumables & service kits,C,7,R-A59,E,140,241,84,2834,15,42510,D,16,14000.0
+TC-CON-0825,Artiglio Master Lubrication Kit,Consumables & service kits,C,6,R-Z50,E,154,302,28,1302,11,14322,D,16,14000.0
+VL-CON-0389,ERCO Lift Service Seal Pack,Consumables & service kits,C,5,R-B29,D,231,154,35,1245,10,12450,D,16,14000.0
+VL-BLT-0871,Scissor Lift Motor Belt,Belts & pulleys,D,3,R-A74,D,111,240,37,986,3,2958,D,16,14000.0
+AD-PNE-0379,Diagnostic Console Pressure Switch,Pneumatic valves & cylinders,D,3,R-M82,D,296,189,31,1734,2,3468,D,16,14000.0
+WA-CMP-0842,Exact Precision Cone Adaptor,"Clamps, jaws & tooling",D,3,R-I95,D,121,207,29,726,8,5808,D,16,14000.0
+VL-HYD-0709,Scissor Lift Pump Assembly,"Hydraulic pumps, hoses & seals",D,3,R-H21,E,188,267,30,1506,5,7530,D,16,14000.0
+WB-BRG-0519,Eyelight Hub Shaft,Bearings & shafts,D,3,R-A77,E,175,232,27,1096,7,7672,D,16,14000.0
+WB-CMP-0351,Mobile Balancer Turntable Clamp,"Clamps, jaws & tooling",D,3,R-N87,E,175,176,49,1509,6,9054,D,16,14000.0
+TC-BLT-0725,HD1200 Truck Drive Belt,Belts & pulleys,C,3,R-C64,D,230,161,59,2185,5,10925,D,16,14000.0
+WB-CAB-0081,EM 9000 Sensor Harness,"Cables, connectors & harnesses",D,3,R-I06,E,171,128,90,1970,7,13790,D,16,14000.0
+TC-CON-0345,HD1200 Truck Lubrication Kit,Consumables & service kits,C,3,R-B61,D,203,103,125,2614,6,15684,D,16,14000.0
+VL-CON-0423,Scissor Lift Protective Cover,Consumables & service kits,D,3,R-N46,D,83,204,91,1541,13,20033,D,16,14000.0
+AD-CON-0088,Diagnostic Console O-Ring Kit,Consumables & service kits,C,3,R-Y93,E,360,120,48,2074,15,31110,D,16,14000.0
+VL-CMP-0757,Two-Post Lift Jaw Cover,"Clamps, jaws & tooling",D,2,R-F61,D,186,187,18,626,3,1878,D,16,14000.0
+TC-BRG-0731,HD1200 Truck Spindle Bearing,Bearings & shafts,D,2,R-Z85,D,147,233,11,377,6,2262,D,16,14000.0
+WA-CON-0953,REMO Service Seal Pack,Consumables & service kits,C,2,R-P19,D,144,208,30,899,3,2697,D,16,14000.0
+TE-BLT-0517,Test Lane Motor Belt,Belts & pulleys,D,2,R-E49,E,164,201,31,1022,3,3066,D,16,14000.0
+TC-BLT-0026,A2024 LL Belt Tensioner,Belts & pulleys,D,2,R-E05,D,234,107,73,1828,3,5484,D,16,14000.0
+WB-CMP-0518,Mobile Balancer Jaw Cover,"Clamps, jaws & tooling",D,2,R-C28,E,325,197,30,1921,3,5763,D,16,14000.0
+WA-CMP-0084,Camera Aligner Cone Adaptor,"Clamps, jaws & tooling",D,2,R-H93,E,173,287,40,1986,3,5958,D,16,14000.0
+TC-BRG-0596,HD1200 Truck Main Shaft,Bearings & shafts,D,2,R-Y89,D,271,135,50,1829,4,7316,D,16,14000.0
+TC-BLT-0221,Artiglio Master Belt Tensioner,Belts & pulleys,D,2,R-Q78,D,110,161,52,921,8,7368,D,16,14000.0
+VL-PNE-0540,Scissor Lift Solenoid Valve,Pneumatic valves & cylinders,D,2,R-M74,D,284,102,90,2607,5,13035,D,16,14000.0
+TC-PNE-0765,Basic Line TC Pressure Switch,Pneumatic valves & cylinders,D,2,R-G42,D,271,148,70,2808,5,14040,D,16,14000.0
+TC-CAB-0705,HD1200 Truck Power Cable,"Cables, connectors & harnesses",D,2,R-Z88,E,237,165,60,2346,6,14076,D,16,14000.0
+TC-BLT-0643,Artiglio Master Motor Belt,Belts & pulleys,D,2,R-M10,D,104,180,126,2359,7,16513,D,16,14000.0
+VL-SNS-0855,Alignment Lift Load Cell,"Sensors, encoders & switches",D,1,R-L39,D,200,184,13,478,2,956,D,16,14000.0
+WB-SNS-0967,Eyelight Speed Sensor,"Sensors, encoders & switches",D,1,R-D98,E,238,133,28,886,2,1772,D,16,14000.0
+VL-BRG-0604,Scissor Lift Bearing Set,Bearings & shafts,C,1,R-A16,D,174,85,66,976,3,2928,D,16,14000.0
+TE-CMP-0138,Brake Tester Bead Breaker Pad,"Clamps, jaws & tooling",D,1,R-Z43,E,299,151,40,1806,2,3612,D,16,14000.0
+WA-CMP-0054,Exact Precision Turntable Clamp,"Clamps, jaws & tooling",D,1,R-A55,D,261,107,65,1815,2,3630,D,16,14000.0
+TC-CMP-0754,Artiglio Master Bead Breaker Pad,"Clamps, jaws & tooling",C,1,R-C16,D,292,128,18,673,7,4711,D,16,14000.0
+AD-BLT-0322,Diagnostic Console Drive Belt,Belts & pulleys,D,1,R-S28,D,166,218,22,796,7,5572,D,16,14000.0
+VL-PNE-0775,Two-Post Lift Air Hose Set,Pneumatic valves & cylinders,D,1,R-L30,E,219,138,31,937,6,5622,D,16,14000.0
+TC-HYD-0105,A2024 LL Flow Valve,"Hydraulic pumps, hoses & seals",D,1,R-B48,E,361,170,24,1473,4,5892,D,16,14000.0
+TE-BLT-0449,Suspension Tester Poly-V Belt,Belts & pulleys,D,1,R-Y22,E,161,300,47,2270,3,6810,D,16,14000.0
+WA-CON-0358,Exact Precision Air Filter,Consumables & service kits,C,1,R-H05,D,264,141,61,2271,3,6813,D,16,14000.0
+VL-CON-0668,Scissor Lift Lubrication Kit,Consumables & service kits,D,1,R-N08,D,157,164,39,1004,7,7028,D,16,14000.0
+TC-SNS-0834,A2024 LL Speed Sensor,"Sensors, encoders & switches",D,1,R-I77,D,90,245,81,1786,4,7144,D,16,14000.0
+VL-CMP-0153,Alignment Lift Jaw Cover,"Clamps, jaws & tooling",D,1,R-L66,D,93,165,158,2425,3,7275,D,16,14000.0
+TC-BRG-0682,Artiglio Master Spindle Bearing,Bearings & shafts,D,1,R-F63,E,188,142,51,1361,6,8166,D,16,14000.0
+AD-BRG-0862,Diagnostic Console Bearing Set,Bearings & shafts,D,1,R-C07,D,180,88,70,1109,8,8872,D,16,14000.0
+WB-BRG-0940,Eyelight Main Shaft,Bearings & shafts,D,1,R-A70,D,238,190,57,2578,4,10312,D,16,14000.0
+AD-CAB-0212,Radar Calibration Power Cable,"Cables, connectors & harnesses",D,1,R-G74,D,123,219,99,2667,4,10668,D,16,14000.0
+TC-SNS-0655,Artiglio Master Load Cell,"Sensors, encoders & switches",D,1,R-N05,E,163,264,65,2797,4,11188,D,16,14000.0
+TC-BLT-0183,Basic Line TC Transmission Pulley,Belts & pulleys,D,1,R-C86,D,123,238,96,2810,10,28100,D,16,14000.0
+TC-CON-0936,A2024 LL Lubrication Kit,Consumables & service kits,C,1,R-Z72,E,340,162,50,2754,11,30294,D,16,14000.0
+WA-CON-0157,Exact Precision Air Filter,Consumables & service kits,C,1,R-F98,D,248,89,131,2891,16,46256,D,16,14000.0
+WA-SNS-0265,Camera Aligner Speed Sensor,"Sensors, encoders & switches",D,0,R-H07,D,172,88,24,363,2,726,D,16,14000.0
+AD-SNS-0357,Camera Calibration Load Cell,"Sensors, encoders & switches",NC,0,R-E85,E,295,198,16,935,1,935,D,16,14000.0
+WB-BRG-0344,Mobile Balancer Bearing Set,Bearings & shafts,D,0,R-T92,D,204,118,13,313,3,939,D,16,14000.0
+TC-CMP-0545,Artiglio Master Mounting Head,"Clamps, jaws & tooling",D,0,R-M58,E,247,126,61,1898,1,1898,D,16,14000.0
+TC-PCB-0103,Basic Line TC Operator Panel,Control boards & displays,NC,0,R-P31,E,157,320,49,2462,1,2462,D,16,14000.0
+WB-MTR-0049,Mobile Balancer Electric Motor,"Motors, drives & gearboxes",NC,0,R-M19,D,231,125,31,895,3,2685,D,16,14000.0
+TE-BLT-0334,Inspection Line Timing Belt,Belts & pulleys,D,0,R-S17,D,134,208,58,1617,2,3234,D,16,14000.0
+VL-BRG-0689,Alignment Lift Spindle Bearing,Bearings & shafts,D,0,R-M89,D,188,197,46,1704,2,3408,D,16,14000.0
+TC-HYD-0076,HD1200 Truck Lift Cylinder Seal,"Hydraulic pumps, hoses & seals",D,0,R-S83,D,227,103,100,2338,2,4676,D,16,14000.0
+TC-SNS-0660,HD1200 Truck Proximity Switch,"Sensors, encoders & switches",NC,0,R-Z40,D,182,180,30,983,5,4915,D,16,14000.0
+WB-MTR-0339,ET Series Gearbox Assembly,"Motors, drives & gearboxes",NC,0,R-N15,D,214,101,84,1816,3,5448,D,16,14000.0
+TC-PCB-0524,A2024 LL I/O Board,Control boards & displays,NC,0,R-H61,D,96,240,119,2742,2,5484,D,16,14000.0
+WA-BRG-0602,3D Aligner Spindle Bearing,Bearings & shafts,D,0,R-H25,D,195,90,106,1860,3,5580,D,16,14000.0
+VL-MTR-0149,Scissor Lift Electric Motor,"Motors, drives & gearboxes",NC,0,R-Y09,E,378,124,25,1172,5,5860,D,16,14000.0
+WB-BRG-0840,ET Series Hub Shaft,Bearings & shafts,D,0,R-E55,D,266,82,77,1680,4,6720,D,16,14000.0
+WA-PNE-0398,Camera Aligner Foot Pedal Valve,Pneumatic valves & cylinders,D,0,R-Q21,E,315,148,30,1399,5,6995,D,16,14000.0
+TC-HYD-0051,A2024 LL Flow Valve,"Hydraulic pumps, hoses & seals",NC,0,R-L60,D,148,178,100,2634,3,7902,D,16,14000.0
+WB-HYD-0044,Eyelight Hydraulic Seal Kit,"Hydraulic pumps, hoses & seals",D,0,R-L51,D,124,187,71,1646,5,8230,D,16,14000.0
+TC-SNS-0652,Basic Line TC Load Cell,"Sensors, encoders & switches",NC,0,R-Y70,D,185,111,83,1704,5,8520,D,16,14000.0
+TC-CMP-0346,Basic Line TC Bead Breaker Pad,"Clamps, jaws & tooling",D,0,R-Q60,E,291,183,45,2396,4,9584,D,16,14000.0
+TC-HYD-0891,Artiglio Master Hydraulic Seal Kit,"Hydraulic pumps, hoses & seals",NC,0,R-E70,E,245,186,44,2005,5,10025,D,16,14000.0
+WA-CMP-0573,Exact Precision Bead Breaker Pad,"Clamps, jaws & tooling",D,0,R-I25,D,292,169,35,1727,6,10362,D,16,14000.0
+WB-BLT-0037,Eyelight Transmission Pulley,Belts & pulleys,D,0,R-A10,E,185,189,55,1923,6,11538,D,16,14000.0
+WA-BLT-0042,Camera Aligner Pulley Wheel,Belts & pulleys,D,0,R-I66,E,322,140,53,2389,5,11945,D,16,14000.0
+WB-SNS-0496,Mobile Balancer Encoder Sensor,"Sensors, encoders & switches",NC,0,R-A18,E,121,362,55,2409,5,12045,D,16,14000.0
+WB-BLT-0427,ET Series Poly-V Belt,Belts & pulleys,D,0,R-N60,D,126,209,105,2765,6,16590,D,16,14000.0
+WA-BLT-0983,Camera Aligner Pulley Wheel,Belts & pulleys,D,0,R-H59,E,191,373,29,2066,9,18594,D,16,14000.0
+AD-CON-0483,SCE Calibration Protective Cover,Consumables & service kits,B,51,R-P98,E,336,225,61,4612,7,32284,E,8,28000.0
+TC-CON-0981,HD1200 Truck O-Ring Kit,Consumables & service kits,B,47,R-Y01,E,349,280,15,1466,26,38116,E,8,28000.0
+TE-CON-0635,Test Lane O-Ring Kit,Consumables & service kits,B,36,R-Y87,E,387,341,50,6598,7,46186,E,8,28000.0
+TC-CON-0795,Basic Line TC Rubber Pad,Consumables & service kits,B,26,R-L17,D,250,245,117,7166,13,93158,E,8,28000.0
+VL-CON-0678,Two-Post Lift Grease Cartridge,Consumables & service kits,B,26,R-G18,E,393,378,149,22135,10,221350,E,8,28000.0
+WA-CON-0686,REMO Lubrication Kit,Consumables & service kits,B,25,R-C37,F,271,351,146,13888,12,166656,E,8,28000.0
+TC-CON-0796,HD1200 Truck Filter Kit,Consumables & service kits,B,18,R-C42,E,370,242,125,11192,9,100728,E,8,28000.0
+WB-CON-0934,EM 9000 Protective Cover,Consumables & service kits,C,10,R-D59,D,262,226,44,2605,11,28655,E,8,28000.0
+TC-CON-0469,A2024 LL Filter Kit,Consumables & service kits,C,7,R-N39,E,214,224,22,1055,7,7385,E,8,28000.0
+WA-BLT-0832,REMO Pulley Wheel,Belts & pulleys,C,7,R-G05,E,310,287,23,2046,11,22506,E,8,28000.0
+TC-CON-0937,Basic Line TC Grease Cartridge,Consumables & service kits,C,5,R-M58,D,225,213,38,1821,6,10926,E,8,28000.0
+TE-CMP-0391,Test Lane Jaw Cover,"Clamps, jaws & tooling",D,3,R-A41,E,370,216,32,2557,2,5114,E,8,28000.0
+TC-BRG-0110,Artiglio Master Main Shaft,Bearings & shafts,D,3,R-Y84,E,204,364,36,2673,6,16038,E,8,28000.0
+TC-CMP-0800,Artiglio Master Jaw Cover,"Clamps, jaws & tooling",C,3,R-F15,E,372,214,31,2468,8,19744,E,8,28000.0
+VL-PNE-0530,Scissor Lift Manifold Valve,Pneumatic valves & cylinders,D,2,R-P41,F,255,282,29,2085,1,2085,E,8,28000.0
+WB-PNE-0085,Eyelight Pneumatic Cylinder,Pneumatic valves & cylinders,D,1,R-Q73,D,232,237,38,2089,2,4178,E,8,28000.0
+TC-BRG-0156,HD1200 Truck Hub Shaft,Bearings & shafts,D,1,R-L56,F,331,256,21,1779,3,5337,E,8,28000.0
+WA-BRG-0569,REMO Bearing Set,Bearings & shafts,D,1,R-D84,D,206,214,35,1543,4,6172,E,8,28000.0
+WB-SNS-0057,Eyelight Speed Sensor,"Sensors, encoders & switches",D,1,R-N90,E,243,347,24,2024,4,8096,E,8,28000.0
+WA-HYD-0467,3D Aligner Pump Assembly,"Hydraulic pumps, hoses & seals",D,1,R-M72,E,331,231,22,1682,5,8410,E,8,28000.0
+WB-PNE-0776,ET Series Air Regulator,Pneumatic valves & cylinders,NC,0,R-Z95,E,285,278,28,2218,1,2218,E,8,28000.0
+WA-HYD-0605,Camera Aligner Pressure Valve,"Hydraulic pumps, hoses & seals",NC,0,R-B74,D,209,232,22,1067,4,4268,E,8,28000.0
+TC-PNE-0408,A2024 LL Pneumatic Cylinder,Pneumatic valves & cylinders,D,0,R-P96,E,283,235,38,2527,3,7581,E,8,28000.0
+WA-PNE-0878,REMO Pneumatic Cylinder,Pneumatic valves & cylinders,NC,0,R-N14,D,249,236,42,2468,4,9872,E,8,28000.0
+WB-PCB-0327,Mobile Balancer Keypad Board,Control boards & displays,NC,0,R-T16,D,258,205,53,2803,4,11212,E,8,28000.0
+VL-CON-0350,Alignment Lift O-Ring Kit,Consumables & service kits,B,28,R-I48,F,495,584,95,27463,9,247167,F,2,112000.0
+TC-CON-0475,HD1200 Truck Protective Cover,Consumables & service kits,A,94,R-Q64,F,295,488,107,15404,13,200252,G,4,56000.0
+AD-CON-0588,Radar Calibration O-Ring Kit,Consumables & service kits,B,55,R-A36,F,583,214,49,6113,12,73356,G,4,56000.0
+TC-CON-0491,HD1200 Truck Protective Cover,Consumables & service kits,B,45,R-C44,F,257,432,171,18985,11,208835,G,4,56000.0
+WB-CON-0591,Eyelight Protective Cover,Consumables & service kits,B,25,R-C60,F,628,389,132,32247,5,161235,G,4,56000.0
+TC-CMP-0043,A2024 LL Bead Breaker Pad,"Clamps, jaws & tooling",D,2,R-N56,E,411,233,27,2586,6,15516,G,4,56000.0
+TC-CON-0343,Basic Line TC Grease Cartridge,Consumables & service kits,A+,473,R-I38,VER,1543,689,68,72293,46,3325478,Ver,1,224000.0
+WB-CON-0165,Mobile Balancer O-Ring Kit,Consumables & service kits,B,55,R-E56,VER,1364,413,43,24223,9,218007,Ver,1,224000.0
