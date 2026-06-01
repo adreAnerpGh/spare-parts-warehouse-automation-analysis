@@ -1,6 +1,8 @@
 # Spare-Parts Warehouse Analysis & Automated Warehouse Transition
 
-This repository contains an operational and warehouse-engineering analysis of a spare-parts warehouse environment using simulated ERP/WMS data.
+This repository contains an end-to-end supply-chain, inventory-planning and warehouse-engineering analysis of a spare-parts warehouse environment using simulated ERP/WMS-derived operational datasets.
+
+The project evaluates inventory performance, replenishment workflows, warehouse operations and selective warehouse automation opportunities within a realistic spare-parts environment.
 
 The project evaluates how selective warehouse automation can improve:
 - warehouse accessibility
@@ -10,28 +12,48 @@ The project evaluates how selective warehouse automation can improve:
 - operational workload distribution
 
 The analyses include:
-- inventory classification and movement analysis
+
+- inventory classification and demand segmentation
 - warehouse structure and occupied-volume analysis
-- inventory-control and replenishment workflows
+- inventory-control and replenishment planning
+- ERP-style inventory planner workflows
+- supplier and replenishment exposure analysis
+- operational control-tower dashboard development
 - Power BI reporting dataset preparation
 - automated warehouse feasibility evaluation
 - tray configuration and storage allocation logic
-- automated warehouse transition evaluation
+- warehouse transition evaluation
 
 The project combines:
 - inventory analytics
 - warehouse-engineering logic
-- storage optimisation principles
-- replenishment workflow analysis
+- replenishment planning
+- ERP-style decision support
 - operational KPI monitoring
-- business-intelligence reporting preparation
+- business-intelligence reporting
+- warehouse automation analysis
 
-The datasets included in this repository were anonymised, partially reconstructed, and reduced in scale to preserve the operational logic of the original warehouse-engineering analyses while avoiding disclosure of proprietary operational information.
+The datasets included in this repository were anonymised, partially reconstructed and reduced in scale to preserve the operational logic of the original analyses while avoiding disclosure of proprietary operational information.
+
+# Dashboard Outputs
+
+The repository includes operational control-tower dashboards [operational control-tower dashboards](outputs/reports/supply_chain_operational_dashboard.html) generated from ERP-style inventory-planning and warehouse-operation datasets.
+
+Dashboard components include:
+
+- Supply Chain Control Tower
+- Planner Exception Queue
+- Supplier Review Queue
+- Inventory Service-Level Monitoring
+- Warehouse Transition Dashboard
+
+The dashboards are designed to simulate the type of operational decision-support views commonly used by inventory planners, supply-chain analysts and ERP users.
+
+Power BI datasets and standalone HTML dashboard outputs are generated throughout the project for reporting and visualisation purposes.
 
 
 # Repository Structure
 
-```
 spare-parts-warehouse-automation-analysis/
 │
 ├── data/
@@ -51,6 +73,9 @@ spare-parts-warehouse-automation-analysis/
 │   ├── 09_tray_configuration_optimisation.ipynb
 │   ├── 10_warehouse_transition_evaluation.ipynb
 │
+│   ├── 11_erp_inventory_planning_workspace.ipynb
+│   ├── 12_operational_control_tower_dashboard.ipynb
+│
 ├── docs/
 │
 ├── outputs/
@@ -60,7 +85,7 @@ spare-parts-warehouse-automation-analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-```
+
 
 # Technologies Used
 
