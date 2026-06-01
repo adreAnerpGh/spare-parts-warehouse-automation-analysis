@@ -53,7 +53,7 @@ Power BI datasets and standalone HTML dashboard outputs are generated throughout
 
 
 # Repository Structure
-
+```
 spare-parts-warehouse-automation-analysis/
 │
 ├── data/
@@ -85,7 +85,7 @@ spare-parts-warehouse-automation-analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 
 # Technologies Used
 
