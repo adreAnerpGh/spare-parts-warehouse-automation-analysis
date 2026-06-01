@@ -1,0 +1,20 @@
+Supplier_ID,Supplier_Name,Requisitions,Requisition_Value_EUR,Avg_Lead_Time_Days,Reliability_Score,Supplier_Risk
+SUP-001,Italy Industrial Components 01,1,32.9,4.0,0.86,Normal
+SUP-002,Italy Industrial Components 02,1,148.75,4.0,0.89,Normal
+SUP-003,EU Industrial Components 03,2,318.36,6.0,0.85,Normal
+SUP-004,EU Industrial Components 04,5,1795.46,7.0,0.95,Normal
+SUP-005,Eastern Europe Industrial Components 05,4,1050.0,10.0,0.75,Review
+SUP-006,EU Industrial Components 06,1,110.0,7.0,0.96,Normal
+SUP-007,Eastern Europe Industrial Components 07,2,1048.12,10.0,0.91,Normal
+SUP-008,EU Industrial Components 08,1,32.7,8.0,0.96,Normal
+SUP-009,Italy Industrial Components 09,1,90.25,4.0,0.87,Normal
+SUP-010,EU Industrial Components 10,4,289.24,8.0,0.92,Normal
+SUP-012,Italy Industrial Components 12,2,238.68,4.0,0.85,Normal
+SUP-013,North America Industrial Components 13,2,504.36,19.0,0.86,Normal
+SUP-014,Eastern Europe Industrial Components 14,1,208.34,11.0,0.78,Review
+SUP-015,EU Industrial Components 15,1,65.94,10.0,0.87,Normal
+SUP-016,EU Industrial Components 16,4,3802.14,8.0,0.86,Normal
+SUP-017,EU Industrial Components 17,1,77.14,6.0,0.96,Normal
+SUP-018,EU Industrial Components 18,7,2397.43,9.0,0.83,Review
+SUP-019,EU Industrial Components 19,2,283.68,4.0,0.89,Normal
+SUP-020,EU Industrial Components 20,5,2510.48,9.0,0.98,Normal
