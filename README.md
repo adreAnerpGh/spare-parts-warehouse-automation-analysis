@@ -4,6 +4,8 @@ This repository contains an end-to-end supply-chain, inventory-planning and ware
 
 The project evaluates inventory performance, replenishment workflows, warehouse operations and selective warehouse automation opportunities within a realistic spare-parts environment.
 
+[Open Interactive Dashboard](https://adreanerpgh.github.io/spare-parts-warehouse-automation-analysis/)
+
 The project evaluates how selective warehouse automation can improve:
 - warehouse accessibility
 - storage density
@@ -38,8 +40,6 @@ The datasets included in this repository were anonymised, partially reconstructe
 # Dashboard Outputs
 
 The repository includes operational control-tower dashboards [Operational Control-Tower Dashboard](https://htmlpreview.github.io/?https://raw.githubusercontent.com/adreAnerpGh/spare-parts-warehouse-automation-analysis/blob/main/dashboard/supply_chain_operational_dashboard.html) generated from ERP-style inventory-planning and warehouse-operation datasets.
-
-[Open Interactive Dashboard](https://adreanerpgh.github.io/spare-parts-warehouse-automation-analysis/)
 
 Dashboard components include:
 
