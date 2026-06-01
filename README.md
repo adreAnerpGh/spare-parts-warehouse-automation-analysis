@@ -76,6 +76,10 @@ spare-parts-warehouse-automation-analysis/
 │   ├── 11_erp_inventory_planning_workspace.ipynb
 │   ├── 12_operational_control_tower_dashboard.ipynb
 │
+├── dashboard/
+│
+│   └── index.html
+│
 ├── docs/
 │
 ├── outputs/
