@@ -1,1 +1,2156 @@
 
+
+<html>
+
+<head>
+
+<title>
+Supply Chain Control Tower
+</title>
+
+<style>
+
+body {
+    background:#0f1117;
+    font-family:Segoe UI;
+    margin:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1 style="color:white;">
+Supply Chain Operational Dashboard
+</h1>
+
+
+    <div style="
+        font-family:Segoe UI;
+        background:#0f1117;
+        color:white;
+        padding:20px;
+        border-radius:10px;
+    ">
+
+        <h1 style="
+            margin-top:0px;
+            margin-bottom:5px;
+        ">
+            Supply Chain Control Tower
+        </h1>
+
+        <div style="
+            color:#9aa4b2;
+            margin-bottom:20px;
+        ">
+            Operational Snapshot
+        </div>
+
+        <table style="
+            width:100%;
+            table-layout:auto;
+            border-collapse:collapse;
+            background:#1b1f2a;
+            border-radius:10px;
+            overflow:hidden;
+        ">
+
+            <tr style="
+                background:#161b22;
+            ">
+
+                <th style="
+                    text-align:left;
+                    padding:12px;
+                ">
+                    Control
+                </th>
+
+                <th style="
+                    padding:12px;
+                ">
+                    Status
+                </th>
+
+                <th style="
+                    text-align:left;
+                    padding:12px;
+                ">
+                    Operational Reading
+                </th>
+
+            </tr>
+
+            
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                Inventory Risk
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#c62828;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                47 planner exceptions identified
+            </td>
+
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                Replenishment Urgency
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#c62828;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                2 materials require expedited supply
+            </td>
+
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                Supplier Exposure
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#c62828;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                3 suppliers flagged for review
+            </td>
+
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                Warehouse Transition
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#2e7d32;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                84.4% movement migration achieved
+            </td>
+
+        </tr>
+        
+
+        </table>
+
+        
+        <div style="
+            margin-top:25px;
+            background:#1b1f2a;
+            padding:15px;
+            border-radius:10px;
+            border:1px solid #30363d;
+        ">
+
+        <h3 style="
+            color:white;
+            margin-top:0px;
+        ">
+            Recommended Actions
+        </h3>
+
+        <ul style="
+            color:#d6d6d6;
+        ">
+        
+            <li style="margin-bottom:8px;">
+                Review 47 inventory exceptions
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                Expedite 2 safety-stock breaches
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                Review supplier SUP-018
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                Prioritise ERCO Lift O-Ring Kit
+            </li>
+            
+        </ul>
+        </div>
+        
+
+        
+        <div style="
+            margin-top:20px;
+            background:#161b22;
+            padding:15px;
+            border-radius:10px;
+            border:1px solid #30363d;
+        ">
+
+        <h3 style="
+            color:white;
+            margin-top:0px;
+        ">
+            Dashboard Legend
+        </h3>
+
+        <ul style="
+            color:#d6d6d6;
+            margin-bottom:0px;
+        ">
+        
+            <li style="margin-bottom:8px;">
+                <b>🔴</b> — Immediate operational attention required.
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                <b>🟠</b> — Monitor and review during planning cycle.
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                <b>🟢</b> — Operating within expected thresholds.
+            </li>
+            
+        </ul>
+        </div>
+        
+
+    </div>
+    
+
+<br><br>
+
+
+    <div style="
+        font-family:Segoe UI;
+        background:#0f1117;
+        color:white;
+        padding:20px;
+        border-radius:10px;
+    ">
+
+        <h2 style="
+            margin-top:0px;
+        ">
+            Top Priority Materials
+        </h2>
+
+        <div style="
+            overflow-x:auto;
+        ">
+
+        <table style="
+            width:100%;
+            min-width:1200px;
+            border-collapse:collapse;
+            background:#1b1f2a;
+        ">
+
+            <tr style="
+                background:#161b22;
+            ">
+
+                
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Priority
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Item
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Criticality
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Action
+        </th>
+        
+
+            </tr>
+
+            
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                1
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                ERCO Lift O-Ring Kit
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                A2024 LL Air Filter
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                3
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Scissor Lift Air Filter
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                4
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Exact Precision Lubrication Kit
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                5
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Radar Calibration Lubrication Kit
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                6
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Eyelight Rubber Pad
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                7
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                A2024 LL Protective Cover
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                8
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                EM 9000 Rubber Pad
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#c62828;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Critical
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                9
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                A2024 LL I/O Board
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#c62828;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Critical
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                10
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Alignment Lift Service Seal Pack
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#c62828;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Critical
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Create Requisition
+            </td>
+            
+        </tr>
+        
+
+        </table>
+
+        </div>
+
+        
+        <div style="
+            margin-top:20px;
+            background:#161b22;
+            padding:15px;
+            border-radius:10px;
+            border:1px solid #30363d;
+        ">
+        <h3 style="
+            color:white;
+            margin-top:0px;
+        ">
+            Dashboard Legend
+        </h3>
+        <ul style="
+            color:#d6d6d6;
+            margin-bottom:0px;
+        ">
+        
+            <li style="margin-bottom:8px;">
+                <b>Expedite Supply</b> — Inventory position below safety-stock protection.
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                <b>Create Requisition</b> — Inventory position below reorder point.
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                <b>Priority Score</b> — Ranking generated from inventory criticality and replenishment risk.
+            </li>
+            
+        </ul>
+        </div>
+        
+
+    </div>
+    
+
+<br><br>
+
+
+    <div style="
+        font-family:Segoe UI;
+        background:#0f1117;
+        color:white;
+        padding:20px;
+        border-radius:10px;
+    ">
+
+        <h2 style="
+            margin-top:0px;
+        ">
+            Supplier Review Queue
+        </h2>
+
+        <div style="
+            overflow-x:auto;
+        ">
+
+        <table style="
+            width:100%;
+            min-width:1200px;
+            border-collapse:collapse;
+            background:#1b1f2a;
+        ">
+
+            <tr style="
+                background:#161b22;
+            ">
+
+                
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Priority
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Item
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Criticality
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Action
+        </th>
+        
+
+            </tr>
+
+            
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                1
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                EU Industrial Components 18
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Review Supplier Performance
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Eastern Europe Industrial Components 05
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Review Supplier Performance
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                3
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Eastern Europe Industrial Components 14
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Review Supplier Performance
+            </td>
+            
+        </tr>
+        
+
+        </table>
+
+        </div>
+
+        
+
+    </div>
+    
+
+<br><br>
+
+
+    <div style="
+        font-family:Segoe UI;
+        background:#0f1117;
+        color:white;
+        padding:20px;
+        border-radius:10px;
+    ">
+
+        <h2 style="
+            margin-top:0px;
+        ">
+            Service Level Monitoring
+        </h2>
+
+        <div style="
+            overflow-x:auto;
+        ">
+
+        <table style="
+            width:100%;
+            min-width:1200px;
+            border-collapse:collapse;
+            background:#1b1f2a;
+        ">
+
+            <tr style="
+                background:#161b22;
+            ">
+
+                
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Priority
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Item
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Criticality
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Available
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Safety Stock
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Coverage (weeks)
+        </th>
+        
+        <th style="
+            text-align:left;
+            padding:12px;
+            white-space:nowrap;
+        ">
+            Action
+        </th>
+        
+
+            </tr>
+
+            
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                1
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Scissor Lift Air Filter
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                16
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                13
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                4.2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Radar Calibration Lubrication Kit
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                11
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                11
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                11.1
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                3
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                A2024 LL Protective Cover
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                12
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                10
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                26.7
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                4
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Brake Tester Spindle Bearing
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                6
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                5
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                31.2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                5
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                ERCO Lift Filter Kit
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                14
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                13
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                10.7
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                6
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Alignment Lift Service Seal Pack
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#c62828;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Critical
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                6
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                5
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                52.0
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                7
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                A2024 LL I/O Board
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#c62828;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Critical
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                1
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                1
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                nan
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                8
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                HD1200 Truck Protective Cover
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#2e7d32;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                Medium
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                6
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                5
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                5.4
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#1b1f2a;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                9
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Camera Calibration Pneumatic Cylinder
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                156.0
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+            background:#161b22;
+        ">
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                10
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                Basic Line TC Position Sensor
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#f57c00;
+                font-weight:bold;
+                white-space:nowrap;
+            ">
+                High
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                2
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                nan
+            </td>
+            
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+                font-weight:normal;
+                white-space:nowrap;
+            ">
+                At Risk
+            </td>
+            
+        </tr>
+        
+
+        </table>
+
+        </div>
+
+        
+        <div style="
+            margin-top:20px;
+            background:#161b22;
+            padding:15px;
+            border-radius:10px;
+            border:1px solid #30363d;
+        ">
+        <h3 style="
+            color:white;
+            margin-top:0px;
+        ">
+            Dashboard Legend
+        </h3>
+        <ul style="
+            color:#d6d6d6;
+            margin-bottom:0px;
+        ">
+        
+            <li style="margin-bottom:8px;">
+                <b>Below Target</b> — Inventory position below safety-stock protection.
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                <b>At Risk</b> — Inventory position approaching safety-stock threshold.
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                <b>Criticality</b> — Operational importance of the material and its potential impact on service delivery if unavailable.
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                <b>Coverage</b> — Estimated weeks of inventory remaining.
+            </li>
+            
+        </ul>
+        </div>
+        
+
+    </div>
+    
+
+<br><br>
+
+
+    <div style="
+        font-family:Segoe UI;
+        background:#0f1117;
+        color:white;
+        padding:20px;
+        border-radius:10px;
+    ">
+
+        <h1 style="
+            margin-top:0px;
+            margin-bottom:5px;
+        ">
+            Warehouse Transition Status
+        </h1>
+
+        <div style="
+            color:#9aa4b2;
+            margin-bottom:20px;
+        ">
+            Operational Snapshot
+        </div>
+
+        <table style="
+            width:100%;
+            table-layout:auto;
+            border-collapse:collapse;
+            background:#1b1f2a;
+            border-radius:10px;
+            overflow:hidden;
+        ">
+
+            <tr style="
+                background:#161b22;
+            ">
+
+                <th style="
+                    text-align:left;
+                    padding:12px;
+                ">
+                    Control
+                </th>
+
+                <th style="
+                    padding:12px;
+                ">
+                    Status
+                </th>
+
+                <th style="
+                    text-align:left;
+                    padding:12px;
+                ">
+                    Operational Reading
+                </th>
+
+            </tr>
+
+            
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                SKU Migration
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#f9a825;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                37.7% of SKUs migrated
+            </td>
+
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                Movement Migration
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#2e7d32;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                84.4% of movements migrated
+            </td>
+
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                Inventory Value Migration
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#f9a825;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                25.9% of inventory value migrated
+            </td>
+
+        </tr>
+        
+        <tr style="
+            border-bottom:1px solid #30363d;
+        ">
+
+            <td style="
+                padding:12px;
+                color:white;
+            ">
+                Residual Manual Activity
+            </td>
+
+            <td style="
+                padding:12px;
+                text-align:center;
+            ">
+                
+    <span style="
+        display:inline-block;
+        width:22px;
+        height:22px;
+        border-radius:50%;
+        background:#2e7d32;
+    ">
+    </span>
+    
+            </td>
+
+            <td style="
+                padding:12px;
+                color:#d6d6d6;
+            ">
+                15.6% residual manual movement activity
+            </td>
+
+        </tr>
+        
+
+        </table>
+
+        
+        <div style="
+            margin-top:25px;
+            background:#1b1f2a;
+            padding:15px;
+            border-radius:10px;
+            border:1px solid #30363d;
+        ">
+
+        <h3 style="
+            color:white;
+            margin-top:0px;
+        ">
+            Recommended Actions
+        </h3>
+
+        <ul style="
+            color:#d6d6d6;
+        ">
+        
+            <li style="margin-bottom:8px;">
+                Continue migration of high-movement SKUs
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                Monitor residual manual warehouse activity
+            </li>
+            
+            <li style="margin-bottom:8px;">
+                Review future automation opportunities
+            </li>
+            
+        </ul>
+        </div>
+        
+
+        
+
+    </div>
+    
+
+</body>
+
+</html>
