@@ -39,7 +39,7 @@ The datasets included in this repository were anonymised, partially reconstructe
 
 # Dashboard Outputs
 
-The repository includes operational control-tower dashboards [Operational Control-Tower Dashboard](https://htmlpreview.github.io/?https://raw.githubusercontent.com/adreAnerpGh/spare-parts-warehouse-automation-analysis/outputs/reports/supply_chain_operational_dashboard.html) generated from ERP-style inventory-planning and warehouse-operation datasets.
+The repository includes operational control-tower dashboards [Operational Control-Tower Dashboard](https://adreanerpgh.github.io/spare-parts-warehouse-automation-analysis/outputs/reports/supply_chain_operational_dashboard.html) generated from ERP-style inventory-planning and warehouse-operation datasets.
 
 Dashboard components include:
 
