@@ -1,8 +1,10 @@
 # Spare-Parts Warehouse Analysis & Automated Warehouse Transition
 
-This repository contains an end-to-end supply-chain, inventory-planning and warehouse-engineering analysis of a spare-parts warehouse environment using simulated ERP/WMS-derived operational datasets.
+This project recreates an industrial engineering analysis of spare-parts inventory management, warehouse operations and automated warehouse transition.
 
-The project evaluates inventory performance, replenishment workflows, warehouse operations and selective warehouse automation opportunities within a realistic spare-parts environment.
+The original analytical work has been reconstructed using Python, pandas and other tools, with anonymised and reduced-scale datasets to protect confidential information while preserving the core analytical methods and operational context.
+
+The project explores inventory performance, replenishment workflows, warehouse operations, automation feasibility and warehouse-transition monitoring through data analysis, planning tools and interactive dashboards.
 
 [Open Interactive Dashboard](https://adreanerpgh.github.io/spare-parts-warehouse-automation-analysis/dashboard/supply_chain_operational_dashboard.html)
 
